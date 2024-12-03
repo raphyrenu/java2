@@ -16,8 +16,11 @@ public class Program {
         System.out.println(b2.getWidth());
 
 
-        Set<Emplyee> empo = new TreeSet<Emplyee>();
-
+        Set<Emplyee> empo = new HashSet<Emplyee>();
+        Emplyee emp1 = new Emplyee(4,"Gisa","Fred","Rca","Student", -48000);
+        Emplyee emp2 = emp1;
+ empo.add(emp1);
+ empo.add(emp2);
         empo.add(new Emplyee(1,"Mary","Mugisha","Rca","Accountant", 100));
         empo.add(new Emplyee(2,"Mike","Manzi","Rca","Instructor",1200));
         empo.add(new Emplyee(3,"Peter","Ganza","RAA","Dev",11500));

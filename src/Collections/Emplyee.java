@@ -79,6 +79,15 @@ public class Emplyee  implements Comparable{
                 ", Salary=" + Salary +
                 '}';
     }
+    @Override
+    public boolean equals(Object o){
+        Emplyee emp = (Emplyee) o;
+        return this.id.equals(emp.id) &&this.FirstName.equals(emp.FirstName)&& this.Lastname.equals(emp.Lastname)&&this.Institution.equals(emp.Institution)&&this.Position.equals(emp.Position)&&this.Salary.equals(emp.Salary);
+    }
+    @Override
+    public int hashCode(){
+        return this.id.hashCode()+this.FirstName.hashCode()+this.Lastname.hashCode()+this.Institution.hashCode()+this.Position.hashCode()+this.Salary.hashCode();
+    }
 
     @Override
     public int compareTo(Object o) {
