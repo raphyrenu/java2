@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no  shrink-to-fit=no">
+        <meta name="format-detection" content="telephone=no">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-149868981-5"></script>
+        <script>
+	    window.dataLayer = window.dataLayer || [];
+
+	    function gtag() {
+		dataLayer.push(arguments);
+	    }
+	    gtag('js', new Date());
+
+	    gtag('config', 'UA-149868981-5');
+
+        </script>
+
+        <!-- BEGIN LivePerson Monitor. -->
+        <!--<script type="text/javascript" src=""></script>-->
+        <!-- END LivePerson Monitor. -->
+	
+	<title>Log Book Loans &#8211; NCBA Rwanda</title>
+<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/a049b8e9b92d685eb23d062a/script.js"></script><link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="NCBA Rwanda &raquo; Feed" href="https://rw.ncbagroup.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="NCBA Rwanda &raquo; Comments Feed" href="https://rw.ncbagroup.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/rw.ncbagroup.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.21"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='currency_css-css'  href='https://rw.ncbagroup.com/wp-content/plugins/ncba-forex-rates/assets/css/currency-flags.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://rw.ncbagroup.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.21' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://rw.ncbagroup.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.1.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='awsm-jobs-general-css'  href='https://rw.ncbagroup.com/wp-content/plugins/wp-job-openings/assets/css/general.min.css?ver=1.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-jobs-style-css'  href='https://rw.ncbagroup.com/wp-content/plugins/wp-job-openings/assets/css/style.min.css?ver=1.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cdn-custom-css'  href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css?ver=1.0.0' type='text/css' media='screen, projection' />
+<link rel='stylesheet' id='main-custom-css'  href='https://rw.ncbagroup.com/wp-content/themes/understrap/assets/css/style-en.css?ver=1.0.0' type='text/css' media='screen, projection' />
+<script type='text/javascript' src='https://rw.ncbagroup.com/wp-content/plugins/jquery-updater/js/jquery-3.5.1.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='https://rw.ncbagroup.com/wp-content/plugins/jquery-updater/js/jquery-migrate-3.3.0.min.js?ver=3.3.0'></script>
+<script type='text/javascript' src='https://rw.ncbagroup.com/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0'></script>
+<script type='text/javascript' src='https://rw.ncbagroup.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.1.5'></script>
+<script type='text/javascript' src='https://rw.ncbagroup.com/wp-content/plugins/stop-user-enumeration/frontend/js/frontend.js?ver=1.3.25'></script>
+<link rel='https://api.w.org/' href='https://rw.ncbagroup.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://rw.ncbagroup.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://rw.ncbagroup.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Asset Finance' href='https://rw.ncbagroup.com/loan/asset-finance/' />
+<link rel='next' title='Mortgage 105%' href='https://rw.ncbagroup.com/loan/mortgage-105/' />
+<link rel="canonical" href="https://rw.ncbagroup.com/loan/log-book-loans/" />
+<link rel='shortlink' href='https://rw.ncbagroup.com/?p=886' />
+<link rel="alternate" type="application/json+oembed" href="https://rw.ncbagroup.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frw.ncbagroup.com%2Floan%2Flog-book-loans%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://rw.ncbagroup.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frw.ncbagroup.com%2Floan%2Flog-book-loans%2F&#038;format=xml" />
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="NCBA Rwanda - Welcome to the Bank that says Go For It">
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Slider Revolution 6.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://rw.ncbagroup.com/wp-content/uploads/2020/01/cropped-site_icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://rw.ncbagroup.com/wp-content/uploads/2020/01/cropped-site_icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://rw.ncbagroup.com/wp-content/uploads/2020/01/cropped-site_icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://rw.ncbagroup.com/wp-content/uploads/2020/01/cropped-site_icon-270x270.png" />
+<script type="text/javascript">function setREVStartSize(t){try{var h,e=document.getElementById(t.c).parentNode.offsetWidth;if(e=0===e||isNaN(e)?window.innerWidth:e,t.tabw=void 0===t.tabw?0:parseInt(t.tabw),t.thumbw=void 0===t.thumbw?0:parseInt(t.thumbw),t.tabh=void 0===t.tabh?0:parseInt(t.tabh),t.thumbh=void 0===t.thumbh?0:parseInt(t.thumbh),t.tabhide=void 0===t.tabhide?0:parseInt(t.tabhide),t.thumbhide=void 0===t.thumbhide?0:parseInt(t.thumbhide),t.mh=void 0===t.mh||""==t.mh||"auto"===t.mh?0:parseInt(t.mh,0),"fullscreen"===t.layout||"fullscreen"===t.l)h=Math.max(t.mh,window.innerHeight);else{for(var i in t.gw=Array.isArray(t.gw)?t.gw:[t.gw],t.rl)void 0!==t.gw[i]&&0!==t.gw[i]||(t.gw[i]=t.gw[i-1]);for(var i in t.gh=void 0===t.el||""===t.el||Array.isArray(t.el)&&0==t.el.length?t.gh:t.el,t.gh=Array.isArray(t.gh)?t.gh:[t.gh],t.rl)void 0!==t.gh[i]&&0!==t.gh[i]||(t.gh[i]=t.gh[i-1]);var r,a=new Array(t.rl.length),n=0;for(var i in t.tabw=t.tabhide>=e?0:t.tabw,t.thumbw=t.thumbhide>=e?0:t.thumbw,t.tabh=t.tabhide>=e?0:t.tabh,t.thumbh=t.thumbhide>=e?0:t.thumbh,t.rl)a[i]=t.rl[i]<window.innerWidth?0:t.rl[i];for(var i in r=a[0],a)r>a[i]&&0<a[i]&&(r=a[i],n=i);var d=e>t.gw[n]+t.tabw+t.thumbw?1:(e-(t.tabw+t.thumbw))/t.gw[n];h=t.gh[n]*d+(t.tabh+t.thumbh)}void 0===window.rs_init_css&&(window.rs_init_css=document.head.appendChild(document.createElement("style"))),document.getElementById(t.c).height=h,window.rs_init_css.innerHTML+="#"+t.c+"_wrapper { height: "+h+"px }"}catch(t){console.log("Failure at Presize of Slider:"+t)}};</script>
+    </head>
+
+    <body>
+		<!-- mobile menu-->
+	<div class="mobile-menu">
+	    <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+		<div class="container">
+		    <a href="/" class="mobile-logo"></a>
+		    <a href="#search" class="search-button"> <i class="fa fa-search"></i> </a>
+		    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#mobile-menu-content"> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button>
+		    <div id="mobile-menu-content" class="collapse navbar-collapse">
+			<ul class="navbar-nav">
+			    												    			    <li class="nav-item dropdown dropdown-level-one"> <a id="dropdownMenu1" href="https://rw.ncbagroup.com" data-toggle="dropdown" class="nav-link dropdown-toggle dropdown-level-one-toggle active">For You</a>
+    				<ul class="dropdown-menu dropdown-menu-mobile">
+    				    <!-- Level two dropdown-->
+										    <li class="dropdown-submenu dropdown-level-two">
+						<a id="dropdownMenu2" href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-two-toggle">
+						    TRANSACT						</a>
+						<ul class="dropdown-menu">
+						    <!-- Level three dropdown-->
+						    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">PERSONAL BANKING</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																		    <li><a class="dropdown-item" href="/accounts/current-accounts/">Current Account</a></li>
+																	    																		    <li><a class="dropdown-item" href="/accounts/savings-accounts/">Savings Account</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/cards/">Cards</a></li>
+																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">BUSINESS BANKING</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="/accounts/current-accounts/">Corporate Current Account</a></li>
+																	    																		    <li><a class="dropdown-item" href="/accounts/current-accounts/">Business Current Account</a></li>
+																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">COMPANY</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/meet-the-team/">Meet the Team</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/news-and-insights/">News &#038; Insights</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/reports/">Reports</a></li>
+																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">QUICK LINKS</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/offers/">Offers</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/contact-us/">Contact Us</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/locations/">Locations</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/tariff-guide-2024/">Tariff Guide</a></li>
+																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    						    <!-- End Level three -->
+						</ul>
+					    </li>
+										    <li class="dropdown-submenu dropdown-level-two">
+						<a id="dropdownMenu2" href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-two-toggle">
+						    BORROW						</a>
+						<ul class="dropdown-menu">
+						    <!-- Level three dropdown-->
+						    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">BUSINESS LOANS</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="/loans/business-term-loans/">Business Term Loans</a></li>
+																	    																		    <li><a class="dropdown-item" href="/loans/overdrafts/">Overdrafts</a></li>
+																	    																		    <li><a class="dropdown-item" href="/loans/contract-finance/">Contract Finance</a></li>
+																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">PERSONAL LOANS</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="/loans/unsecured-bid-bonds/">Unsecured Bid Bonds</a></li>
+																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">PROPERTY</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="/loans/Residential-Mortgage">Residential Mortgage</a></li>
+																	    																		    <li><a class="dropdown-item" href="/loans/income-generating-mortgage/">Income Generating Mortgage</a></li>
+																	    																		    <li><a class="dropdown-item" href="/loans/mortgage-105">Mortgage 105%</a></li>
+																	    																		    <li><a class="dropdown-item" href="/loans/real-estate-finance-loan">Real Estate Finance Loan</a></li>
+																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    													    													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">ASSET FINANCE</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="/loans/log-book-loans/">Log Book Loans</a></li>
+																	    																		    <li><a class="dropdown-item" href="/loans/#tab-341">Car Loans</a></li>
+																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    						    <!-- End Level three -->
+						</ul>
+					    </li>
+										    <li class="dropdown-submenu dropdown-level-two">
+						<a id="dropdownMenu2" href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-two-toggle">
+						    SAVE						</a>
+						<ul class="dropdown-menu">
+						    <!-- Level three dropdown-->
+						    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">INVESTMENT</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="/accounts/savings-accounts/">Savings Account</a></li>
+																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">TERM DEPOSITS</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="/accounts/investment-accounts">Fixed and Short Term Deposits</a></li>
+																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">COMPANY</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/meet-the-team/">Meet the Team</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/reports/">Reports</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/news-and-insights/">News &#038; Insights</a></li>
+																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">QUICK LINKS</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/offers/">Offers</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/contact-us/">Contact Us</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/locations/">Locations</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/tariff-guide-2024/">Tariff Guide</a></li>
+																	    								</ul>
+							    </li>
+													    													    													    													    													    						    <!-- End Level three -->
+						</ul>
+					    </li>
+					    				    <!-- End Level two -->
+    				</ul>
+    			    </li>
+			    												    			    <li class="nav-item dropdown dropdown-level-one"> <a id="dropdownMenu1" href="https://rw.ncbagroup.com/for-business" data-toggle="dropdown" class="nav-link dropdown-toggle dropdown-level-one-toggle ">For Business</a>
+    				<ul class="dropdown-menu dropdown-menu-mobile">
+    				    <!-- Level two dropdown-->
+										    <li class="dropdown-submenu dropdown-level-two">
+						<a id="dropdownMenu2" href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-two-toggle">
+						    TRANSACT						</a>
+						<ul class="dropdown-menu">
+						    <!-- Level three dropdown-->
+						    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">BUSINESS BANKING</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																		    <li><a class="dropdown-item" href="/accounts/current-accounts/">Corporate Current Account</a></li>
+																	    																		    <li><a class="dropdown-item" href="/accounts/current-accounts/">Business Current Account</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/cards/">Cards</a></li>
+																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">ABOUT US</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/about-us/">About us</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/our-brand-story/">Our Brand Story</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/our-board-of-directors/">Our Board of Directors</a></li>
+																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">QUICK LINKS</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/offers/">Offers</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/contact-us/">Contact Us</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/locations/">Locations</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/tariff-guide-2024/">Tariff Guide</a></li>
+																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    						    <!-- End Level three -->
+						</ul>
+					    </li>
+										    <li class="dropdown-submenu dropdown-level-two">
+						<a id="dropdownMenu2" href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-two-toggle">
+						    BORROW						</a>
+						<ul class="dropdown-menu">
+						    <!-- Level three dropdown-->
+						    													    													    													    													    													    													    													    													    													    													    													    													    													    													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">BUSINESS LOANS</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="/loans/business-term-loans/">Business Term Loans</a></li>
+																	    																		    <li><a class="dropdown-item" href="/loans/overdrafts/">Overdrafts</a></li>
+																	    																		    <li><a class="dropdown-item" href="/loans/contract-finance/">Contract Finance</a></li>
+																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">REAL ESTATE FINANCE</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="/loans/real-estate-finance-loan">Real Estate Finance Loan</a></li>
+																	    																	    																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">ASSET FINANCE</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="/loans/log-book-loans">Log Book Loans</a></li>
+																	    																	    																	    																	    																	    																	    								</ul>
+							    </li>
+													    													    														    <li class="dropdown-submenu dropdown-level-three"> <a href="#" role="button" data-toggle="dropdown" class="dropdown-item dropdown-toggle dropdown-level-three-toggle">QUICK LINKS</a>
+								<ul class="dropdown-menu">
+								    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/offers/">Offers</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/contact-us/">Contact Us</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/locations/">Locations</a></li>
+																	    																		    <li><a class="dropdown-item" href="https://rw.ncbagroup.com/tariff-guide-2024/">Tariff Guide</a></li>
+																	    								</ul>
+							    </li>
+													    													    													    													    													    						    <!-- End Level three -->
+						</ul>
+					    </li>
+					    				    <!-- End Level two -->
+    				</ul>
+    			    </li>
+			    			    <li class="nav-item dropdown country-dropdown"> <a class="nav-link dropdown-toggle" href="https://ncbagroup.com" target="_blank" id="" role="button" data-toggle="dropdown">
+				    <img src="https://rw.ncbagroup.com/wp-content/themes/understrap/assets/images/rawanda-flag.jpg" alt=""> Rwanda
+				</a>
+				<a class="dropdown-item" href="https://ncbagroup.com" target="_blank"><img src="https://rw.ncbagroup.com/wp-content/themes/understrap/assets/images/site-icon.png" alt="">NCBA Group</a>
+				<a class="dropdown-item" href="https://ke.ncbagroup.com" target="_blank"><img src="https://rw.ncbagroup.com/wp-content/themes/understrap/assets/images/kenya-flag.jpg" alt="">NCBA Kenya</a>
+				<a class="dropdown-item" href="https://ug.ncbagroup.com" target="_blank"><img src="https://rw.ncbagroup.com/wp-content/themes/understrap/assets/images/uganda-flag.jpg" alt="">NCBA Uganda</a>
+				<a class="dropdown-item" href="https://tz.ncbagroup.com" target="_blank"><img src="https://rw.ncbagroup.com/wp-content/themes/understrap/assets/images/tanzania-flag.jpg" alt="">NCBA Tanzania</a>
+			    </li>
+			</ul>
+		    </div>
+		</div>
+	    </nav>
+	</div>
+	<!-- header -->
+	<header>
+	    <div class="header-primary">
+		<nav class="navbar navbar-expand-lg navbar-light fixed-top">
+		    <a href="/" class="mobile-logo"></a>
+		    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarprimary"> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button>
+		    <div class="collapse navbar-collapse" id="navbarprimary">
+			<ul class="navbar-nav ">
+			    												    <li class="nav-item">
+					<a class="nav-link active" href="https://rw.ncbagroup.com">
+					    For You					</a>
+				    </li>
+																				    <li class="nav-item">
+					<a class="nav-link " href="https://rw.ncbagroup.com/for-business">
+					    For Business					</a>
+				    </li>
+											    <li class="nav-item search-icon">
+				<a href="#search"> <i class="fa fa-search"></i> </a>
+			    </li>
+			    <li class="nav-item dropdown country-dropdown"> <a class="dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown">
+				    <img src="https://rw.ncbagroup.com/wp-content/themes/understrap/assets/images/rawanda-flag.jpg" alt="">Rwanda
+				</a>
+				<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+				    <a class="dropdown-item" href="https://ncbagroup.com" target="_blank"><img src="https://rw.ncbagroup.com/wp-content/themes/understrap/assets/images/site-icon.png" alt="">NCBA Group</a>
+				    <a class="dropdown-item" href="https://ke.ncbagroup.com" target="_blank"><img src="https://rw.ncbagroup.com/wp-content/themes/understrap/assets/images/kenya-flag.jpg" alt="">NCBA Kenya</a>
+				    <a class="dropdown-item" href="https://ug.ncbagroup.com" target="_blank"><img src="https://rw.ncbagroup.com/wp-content/themes/understrap/assets/images/uganda-flag.jpg" alt="">NCBA Uganda</a>
+				    <a class="dropdown-item" href="https://ncbagroup.co.tz" target="_blank"><img src="https://rw.ncbagroup.com/wp-content/themes/understrap/assets/images/tanzania-flag.jpg" alt="">NCBA Tanzania</a>
+				</div>
+			    </li>
+			</ul>
+		    </div>
+		</nav>
+	    </div>
+	    <div style="display:block;" class="header-secondary">
+		<nav class="navbar navbar-expand-lg navbar-dark">
+		    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarpsecondary"> <span class="navbar-toggler-icon"></span> </button>
+		    <div class="collapse navbar-collapse" id="navbarpsecondary">
+			<ul class="navbar-nav ">
+			    				    <li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown">
+					    TRANSACT					</a>
+					<div class="dropdown-menu mega-menu">
+					    <div class="row">
+													<div class="col-lg-3 col-md-6"> <span class="title">PERSONAL BANKING</span>
+							    <ul class="nav">
+																    																    																    									<li class="nav-item"> <a class="nav-link" href="/accounts/current-accounts/">Current Account</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="/accounts/savings-accounts/">Savings Account</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="https://rw.ncbagroup.com/cards/">Cards</a> </li>
+								    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    															    </ul>
+							</div>
+							<!-- /.col-lg-2  -->
+														<div class="col-lg-3 col-md-6"> <span class="title">BUSINESS BANKING</span>
+							    <ul class="nav">
+																    																    																    																    																    																    																    									<li class="nav-item"> <a class="nav-link" href="/accounts/current-accounts/">Corporate Current Account</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="/accounts/current-accounts/">Business Current Account</a> </li>
+								    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    															    </ul>
+							</div>
+							<!-- /.col-lg-2  -->
+														<div class="col-lg-3 col-md-6"> <span class="title">COMPANY</span>
+							    <ul class="nav">
+																    																    																    																    																    																    																    																    																    																    									<li class="nav-item"> <a class="nav-link" href="https://rw.ncbagroup.com/meet-the-team/">Meet the Team</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="https://rw.ncbagroup.com/news-and-insights/">News &#038; Insights</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="https://rw.ncbagroup.com/reports/">Reports</a> </li>
+								    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    															    </ul>
+							</div>
+							<!-- /.col-lg-2  -->
+														<div class="col-lg-3 col-md-6"> <span class="title">QUICK LINKS</span>
+							    <ul class="nav">
+																    																    																    																    																    																    																    																    																    																    																    																    																    																    									<li class="nav-item"> <a class="nav-link" href="https://rw.ncbagroup.com/offers/">Offers</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="https://rw.ncbagroup.com/contact-us/">Contact Us</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="https://rw.ncbagroup.com/locations/">Locations</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="https://rw.ncbagroup.com/tariff-guide-2024/">Tariff Guide</a> </li>
+								    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    															    </ul>
+							</div>
+							<!-- /.col-lg-2  -->
+												    </div>
+					</div>
+				    </li>
+								    <li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown">
+					    BORROW					</a>
+					<div class="dropdown-menu mega-menu">
+					    <div class="row">
+													<div class="col-lg-3 col-md-6"> <span class="title">BUSINESS LOANS</span>
+							    <ul class="nav">
+																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    									<li class="nav-item"> <a class="nav-link" href="/loans/business-term-loans/">Business Term Loans</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="/loans/overdrafts/">Overdrafts</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="/loans/contract-finance/">Contract Finance</a> </li>
+								    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    															    </ul>
+							</div>
+							<!-- /.col-lg-2  -->
+														<div class="col-lg-3 col-md-6"> <span class="title">PERSONAL LOANS</span>
+							    <ul class="nav">
+																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    									<li class="nav-item"> <a class="nav-link" href="/loans/unsecured-bid-bonds/">Unsecured Bid Bonds</a> </li>
+								    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    															    </ul>
+							</div>
+							<!-- /.col-lg-2  -->
+														<div class="col-lg-3 col-md-6"> <span class="title">PROPERTY</span>
+							    <ul class="nav">
+																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    									<li class="nav-item"> <a class="nav-link" href="/loans/Residential-Mortgage">Residential Mortgage</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="/loans/income-generating-mortgage/">Income Generating Mortgage</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="/loans/mortgage-105">Mortgage 105%</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="/loans/real-estate-finance-loan">Real Estate Finance Loan</a> </li>
+								    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    															    </ul>
+							</div>
+							<!-- /.col-lg-2  -->
+														<div class="col-lg-3 col-md-6"> <span class="title">ASSET FINANCE</span>
+							    <ul class="nav">
+																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    									<li class="nav-item"> <a class="nav-link" href="/loans/log-book-loans/">Log Book Loans</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="/loans/#tab-341">Car Loans</a> </li>
+								    																    																    																    																    																    																    																    																    																    																    																    																    																    																    															    </ul>
+							</div>
+							<!-- /.col-lg-2  -->
+												    </div>
+					</div>
+				    </li>
+								    <li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown">
+					    SAVE					</a>
+					<div class="dropdown-menu mega-menu">
+					    <div class="row">
+													<div class="col-lg-3 col-md-6"> <span class="title">INVESTMENT</span>
+							    <ul class="nav">
+																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    									<li class="nav-item"> <a class="nav-link" href="/accounts/savings-accounts/">Savings Account</a> </li>
+								    																    																    																    																    																    																    																    																    																    																    																    															    </ul>
+							</div>
+							<!-- /.col-lg-2  -->
+														<div class="col-lg-3 col-md-6"> <span class="title">TERM DEPOSITS</span>
+							    <ul class="nav">
+																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    									<li class="nav-item"> <a class="nav-link" href="/accounts/investment-accounts">Fixed and Short Term Deposits</a> </li>
+								    																    																    																    																    																    																    																    																    																    															    </ul>
+							</div>
+							<!-- /.col-lg-2  -->
+														<div class="col-lg-3 col-md-6"> <span class="title">COMPANY</span>
+							    <ul class="nav">
+																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    									<li class="nav-item"> <a class="nav-link" href="https://rw.ncbagroup.com/meet-the-team/">Meet the Team</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="https://rw.ncbagroup.com/reports/">Reports</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="https://rw.ncbagroup.com/news-and-insights/">News &#038; Insights</a> </li>
+								    																    																    																    																    																    															    </ul>
+							</div>
+							<!-- /.col-lg-2  -->
+														<div class="col-lg-3 col-md-6"> <span class="title">QUICK LINKS</span>
+							    <ul class="nav">
+																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    																    									<li class="nav-item"> <a class="nav-link" href="https://rw.ncbagroup.com/offers/">Offers</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="https://rw.ncbagroup.com/contact-us/">Contact Us</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="https://rw.ncbagroup.com/locations/">Locations</a> </li>
+								    																    									<li class="nav-item"> <a class="nav-link" href="https://rw.ncbagroup.com/tariff-guide-2024/">Tariff Guide</a> </li>
+								    															    </ul>
+							</div>
+							<!-- /.col-lg-2  -->
+												    </div>
+					</div>
+				    </li>
+											    <!--
+</ul><li class="nav-item item-padding"> <a class="nav-link" href="/homeward">HOMEWARD</a> </li>
+                            -->
+		    </div>
+		</nav>
+	    </div>
+	</header>
+	<!-- overlay search -->
+<div id="search">
+    <button type="button" class="close-search">×</button>
+    <form method="GET" action="https://rw.ncbagroup.com">
+        <div class="search-holder">
+            <input class="search-holder__input" type="search" value="" name="s" placeholder="Search Keyword..." />
+            <button class="search-holder__button" type="submit"> <i class="fa fa-2x fa-search"></i> </button>
+        </div>
+    </form>
+</div>	<main class="main-wrap">
+	    <section class="main-heading-wrap">
+		<div class="top-form-wrap">
+		    <a href="/" class="top-form-wrap__logo"></a>
+			  <form onsubmit="window.location.href = this.internetbanking.value;
+				    return false;">
+			<div class="top-content">
+			    <h2 class="top-content__title">INTERNET BANKING</h2>
+			    <div class="form-group clearfix">
+				<div class="custom-dropdown-list">
+				    <select name="internetbanking">
+					<option value="/">Select Service</option>
+					<option value="https://cbaconnect.cbagroup.com/" target="_blank">NCBA Connect</option>
+				    </select>
+				</div>
+			    </div>
+			    <button type="submit" class="sweep-btn-center go-btn">Go for it</button> <a href="/contact-us" target="_blank" class="top-content__link-b">Need Help?</a>
+			    <!--                                    <a href="https://cbaconnect.cbagroup.com/" target="_blank" class="arrow__link"> <span class="text">NCBA CONNECT</span> </a>-->
+			</div>
+		    </form>
+		</div>
+		<!-- /.top-form-wrap -->
+	<div class="container">
+  <div class="main-heading-right">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="caption">
+          <h1 class="title">Log Book Loans</h1>          <div class="content">The NCBA logbook loan product aims to give individuals and businesses access to quick financing to enable them to meet their emergency needs for immediate cash.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+<section class="static-content blue-wrap blue-wrap-padding">
+  <div class="container">
+    <div class="content-body">
+      <p style="font-weight: 400;">The NCBA logbook loan product aims to give individuals and businesses access to quick financing to enable them to meet their emergency needs for immediate cash.</p>
+<p style="font-weight: 400;">You are able to borrow cash against an owned vehicle, provided it’s not under any finance.</p>
+<p style="font-weight: 400;">Features:</p>
+<ul>
+<li style="font-weight: 400;">Minimum loan amount- RWF 1 Million</li>
+<li style="font-weight: 400;">NCBA Bank Rwanda will finance up to 30% of cars under 12 years for a repayment period of 3 years.</li>
+<li style="font-weight: 400;">Logbook loan applicable to Private and commercial vehicles only, i.e. Trucks, Saloon cars and pickups. PSV vehicles such as buses, Matatus, Taxis, etc. – Not applicable</li>
+</ul>
+<p style="font-weight: 400;">Benefits:</p>
+<ul>
+<li>Access to quick financing against the car value.</li>
+<li>Repayment cycle based on customer’s income cycle.</li>
+<li>Loan application feedback in 48 hours.</li>
+</ul>
+    </div>
+  </div>
+</section>
+<!-- loop-templates/content-single -->
+
+</main>
+<!-- footer -->
+<script type="text/javascript">
+    window.ncba = {
+	'page_title': "Log Book Loans"
+    };
+</script>
+
+<script type="text/javascript">
+  window.protoSettings = {
+    id: '01J3K1GZR5XQSQ2S107NYMD4GV'
+  };
+
+  var prs = document.createElement('script');
+  prs.src = 'https://embed.proto.cx/index.umd.js';
+  prs.type = 'text/javascript';
+  prs.async = true;
+  prs.onload = function () {
+    window.proto.init(window.protoSettings);
+  };
+  document.head.appendChild(prs);
+</script>
+<!-- BEGIN LivePerson Monitor. -->
+<!--        <script type="text/javascript">
+    window.lpTag = window.lpTag || {}, 'undefined' == typeof window.lpTag._tagCount ? (window.lpTag = {
+	wl: lpTag.wl || null
+	, scp: lpTag.scp || null
+	, site: '6785886' || ''
+	, section: lpTag.section || ''
+	, tagletSection: lpTag.tagletSection || null
+	, autoStart: lpTag.autoStart !== !1
+	, ovr: lpTag.ovr || {}
+	, _v: '1.10.0'
+	, _tagCount: 1
+	, protocol: 'https:'
+	, events: {
+	    bind: function (t, e, i) {
+		lpTag.defer(function () {
+		    lpTag.events.bind(t, e, i)
+		}, 0)
+	    }
+	    , trigger: function (t, e, i) {
+		lpTag.defer(function () {
+		    lpTag.events.trigger(t, e, i)
+		}, 1)
+	    }
+	}
+	, defer: function (t, e) {
+	    0 === e ? (this._defB = this._defB || [], this._defB.push(t)) : 1 === e ? (this._defT = this._defT || [], this._defT.push(t)) : (this._defL = this._defL || [], this._defL.push(t))
+	}
+	, load: function (t, e, i) {
+	    var n = this;
+	    setTimeout(function () {
+		n._load(t, e, i)
+	    }, 0)
+	}
+	, _load: function (t, e, i) {
+	    var n = t;
+	    t || (n = this.protocol + '//' + (this.ovr && this.ovr.domain ? this.ovr.domain : 'lptag.liveperson.net') + '/tag/tag.js?site=' + this.site);
+	    var o = document.createElement('script');
+	    o.setAttribute('charset', e ? e : 'UTF-8'), i && o.setAttribute('id', i), o.setAttribute('src', n), document.getElementsByTagName('head').item(0).appendChild(o)
+	}
+	, init: function () {
+	    this._timing = this._timing || {}, this._timing.start = (new Date).getTime();
+	    var t = this;
+	    window.attachEvent ? window.attachEvent('onload', function () {
+		t._domReady('domReady')
+	    }) : (window.addEventListener('DOMContentLoaded', function () {
+		t._domReady('contReady')
+	    }, !1), window.addEventListener('load', function () {
+		t._domReady('domReady')
+	    }, !1)), 'undefined' === typeof window._lptStop && this.load()
+	}
+	, start: function () {
+	    this.autoStart = !0
+	}
+	, _domReady: function (t) {
+	    this.isDom || (this.isDom = !0, this.events.trigger('LPT', 'DOM_READY', {
+		t: t
+	    })), this._timing[t] = (new Date).getTime()
+	}
+	, vars: lpTag.vars || []
+	, dbs: lpTag.dbs || []
+	, ctn: lpTag.ctn || []
+	, sdes: lpTag.sdes || []
+	, hooks: lpTag.hooks || []
+	, identities: lpTag.identities || []
+	, ev: lpTag.ev || []
+    }, lpTag.init()) : window.lpTag._tagCount += 1;
+</script>-->
+<!-- END LivePerson Monitor. -->
+<footer>
+    <div class="footer-top">
+	<div class="container">
+	    <div class="row">
+		<div class="col-lg-4 col-md-12">
+		    <div class="contact-info">
+			<a href="javascript:void(0)" class="contact-info__footer-logo"></a> <span>Kigali Heights, 8th Floor
+			    <span>Plot No. 772, KG7 AVE,</span> 
+			    <span>Boulevard de L’Umuganda</span> P.O. Box 6774, Kigali, Rwanda 
+			    <span>Contact Centre Number: +250 788 149 555 </span>
+			    <span>Email: <a href="mailto:contact.rw@ncbagroup.com" target="_blank">contact.rw@ncbagroup.com</a></spam>
+				</div>
+				</div>
+				<div class="col-lg-2 col-md-3">
+				    <div class="footer-links">
+					<h3 class="footer-links__title">ABOUT US</h3>
+					<ul class="footer-links__list-group">
+					    <li class="footer-links__list-item"> <a href="/about-us" title="">About Us</a> </li>
+					    <li class="footer-links__list-item"> <a href="/our-board-of-directors" title="">Board of Directors</a> </li>
+					    <li class="footer-links__list-item"> <a href="/our-brand-story" title="">Our Brand Story</a> </li>
+					    <li class="footer-links__list-item"> <a href="https://ncbagroup.com/" target="_blank" title="">Group</a> </li>
+					</ul>
+				    </div>
+				    <!-- /.footer-links -->
+				</div>
+				<div class="col-lg-2 col-md-3">
+				    <div class="footer-links">
+					<h3 class="footer-links__title">COMPANY</h3>
+					<ul class="footer-links__list-group">
+					    <li class="footer-links__list-item"> <a href="/reports" title="">Reports</a> </li>
+					    <li class="footer-links__list-item"> <a href="/meet-the-team" title="">Meet the Team</a> </li>
+					    <li class="footer-links__list-item"> <a href="/contact-us" title="">Contact Us</a> </li>
+					    <li class="footer-links__list-item"> <a href="/news-and-insights" title=""> News & Insights</a> </li>
+					    <li class="footer-links__list-item"><a href="/job-openings" title="">Careers</a></li>
+					</ul>
+				    </div>
+				    <!-- /.footer-links -->
+				</div>
+				<div class="col-lg-2 col-md-3">
+				    <div class="footer-links">
+					<h3 class="footer-links__title">OTHER</h3>
+					<ul class="footer-links__list-group">
+						<li class="footer-links__list-item"> <a href="/downloads" title=""> Downloads</a> </li>
+					    <li class="footer-links__list-item"> <a href="/tariff-guide-2024" title=""> Tariff Guide 2024</a> </li>
+					    <li class="footer-links__list-item"><a href="https://rw.ncbagroup.com/terms-and-conditions/" title="">Terms & Conditions</a></li>
+					    <li class="footer-links__list-item"><a href="https://rw.ncbagroup.com/complaints-handling-guidelines/" title="">Complaints Handling Guidelines</a></li>
+					</ul>
+				    </div>
+				    <!-- /.footer-links -->
+				</div>
+				<div class="col-lg-2 col-md-3">
+				    <div class="contact-info">
+					<h3 class="footer-links__title">WHISTLE BLOW</h3>
+					<ul class="footer-links__list-group">
+					    <li class="footer-links__list-item"> <a href="https://www.tip-offs.com/" target="_blank" title="">Website</a></li>
+					    <li class="footer-links__list-item"> <a href="mailto:ncbabank@tip-offs.com" target="_blank" title="">ncbabank@tip-offs.com</a></li>
+					</ul>
+					<span>Phone:  +250 788 149 567</span> 
+					<span>Toll Free Fax: 00800007788</span> 
+				    </div>
+				    <!-- /.footer-links -->
+				</div>
+				</div>
+				<div class="footer-center">
+				    <div class="row">
+					<div class="col-md-4">
+					    <ul class="social-icons">
+						<li>
+						    <a href="https://www.facebook.com/NCBABankRw/" target="_blank"> <i class="fa fa-facebook"></i> </a>
+						</li>
+						<li>
+						    <a href="https://twitter.com/NCBABankRw" target="_blank"> <i class="fa fa-twitter"></i> </a>
+						</li>
+						<li>
+						    <a href="https://www.linkedin.com/company/ncba-rwanda" target="_blank"> <i class="fa fa-linkedin"></i></a>
+						</li>
+						<li>
+						    <a href="https://instagram.com/ncbabankrw" target="_blank"> <i class="fa fa-instagram"></i> </a>
+						</li>
+						<!-- <li>
+						    <a href="https://www.youtube.com/channel/UCrIGfY1gCXrNjr2KLzQhd3w" target="_blank"> <i class="fa fa-youtube-play"></i> </a>
+						</li> -->
+					    </ul>
+					    <!-- /.social-icon -->
+					</div>
+					<div class="col-md-8">
+					    <ul class="copyright-links">
+						<li>
+						    <a href="/" title=""></a>
+						</li>
+						<li> <a href="/privacy-policy" title="">PRIVACY POLICY</a> </li>
+						<!--                                 <li> <a href="/terms" title="">TERMS AND CONDITIONS</a> </li>-->
+					    </ul>
+					</div>
+				    </div>
+				</div>
+				</div>
+				</div>
+				<div class="footer-copyright">
+				    <div class="container">
+					<div class="row">
+					    <div class="col-lg-8 col-md-6">Authorised financial services provider and registered credit provider regulated by Banki Nkuru Y'u Rwanda </div>
+					    <div class="col-lg-4 col-md-6"> <span class="copyright-text">
+						    Copyright &copy;2019 - 2020 . All Rights Reserved
+						</span> </div>
+					</div>
+				    </div>
+				</div>
+				<a href="#" class="scrollup" title=""> <span class="top-arrow">
+					<i class="fa fa-2x fa-angle-up"></i>
+				    </span> </a>
+				</a>
+				</footer>
+				<script type='text/javascript'>
+/* <![CDATA[ */
+var awsmJobsPublic = {"ajaxurl":"https:\/\/rw.ncbagroup.com\/wp-admin\/admin-ajax.php","is_tax_archive":"","job_id":"0","wp_max_upload_size":"536870912","i18n":{"loading_text":"Loading...","form_error_msg":{"general":"Error in submitting your application. Please try again later!","file_validation":"The file you have selected is too large."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://rw.ncbagroup.com/wp-content/plugins/wp-job-openings/assets/js/script.min.js?ver=1.5.1'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://rw.ncbagroup.com/wp-content/themes/understrap/assets/js/animate.js?ver=5.2.21'></script>
+<script type='text/javascript' src='https://rw.ncbagroup.com/wp-content/themes/understrap/assets/js/owl.carousel.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://rw.ncbagroup.com/wp-content/themes/understrap/assets/js/slick.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://rw.ncbagroup.com/wp-content/themes/understrap/assets/js/jquery.nice-select.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://rw.ncbagroup.com/wp-content/themes/understrap/assets/js/rangeslider.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://rw.ncbagroup.com/wp-content/themes/understrap/assets/js/left-menu.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://rw.ncbagroup.com/wp-content/themes/understrap/assets/js/custom.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://rw.ncbagroup.com/wp-includes/js/wp-embed.min.js?ver=5.2.21'></script>
+				<style>
+				    header .header-primary nav.navbar a.nav-link.active {
+					color: #3ab3e5 !important;
+				    }
+				</style>
+				</body>
+
+				</html>

@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+
+<head>
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-69NQYQ86MD"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-69NQYQ86MD'); </script>
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="https://www.frp.org/1.0//sites/default/files/Favicon_0.png" type="image/png" />
+  <title>Home | Fund for Rural Prosperity</title>
+
+    <meta name="googlebot" content="index">
+  <meta name="robots" content="index">
+  <meta name="MobileOptimized" content="width">
+  <meta name="HandheldFriendly" content="true">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="manifest" href="/1.0//sites/all/themes/frp/manifest.json">
+<script language="JavaScript">
+function silentErrorHandler() {return true;}
+window.onerror=silentErrorHandler;
+</script>
+    <!--[if IEMobile]><meta http-equiv="cleartype" content="on"><![endif]-->
+  <style>
+@import url("https://www.frp.org/1.0//modules/system/system.base.css?s2h0na");
+@import url("https://www.frp.org/1.0//modules/system/system.messages.css?s2h0na");
+@import url("https://www.frp.org/1.0//modules/system/system.theme.css?s2h0na");
+</style>
+<style>
+@import url("https://www.frp.org/1.0//modules/comment/comment.css?s2h0na");
+@import url("https://www.frp.org/1.0//sites/all/modules/download_verify/css/download_verify.css?s2h0na");
+@import url("https://www.frp.org/1.0//modules/field/theme/field.css?s2h0na");
+@import url("https://www.frp.org/1.0//modules/node/node.css?s2h0na");
+@import url("https://www.frp.org/1.0//modules/search/search.css?s2h0na");
+@import url("https://www.frp.org/1.0//modules/user/user.css?s2h0na");
+@import url("https://www.frp.org/1.0//sites/all/modules/views/css/views.css?s2h0na");
+@import url("https://www.frp.org/1.0//sites/all/modules/ckeditor/css/ckeditor.css?s2h0na");
+@import url("https://www.frp.org/1.0//sites/all/modules/media/modules/media_wysiwyg/css/media_wysiwyg.base.css?s2h0na");
+</style>
+<style>
+@import url("https://www.frp.org/1.0//sites/all/modules/ctools/css/ctools.css?s2h0na");
+@import url("https://www.frp.org/1.0//sites/all/modules/eu_cookie_compliance/css/eu_cookie_compliance.css?s2h0na");
+@import url("https://www.frp.org/1.0//sites/default/files/ctools/css/291ebba2cae7ecc09948922214400aa0.css?s2h0na");
+</style>
+<style>
+@import url("https://www.frp.org/1.0//sites/all/themes/frp/css/bootstrap.css?s2h0na");
+@import url("https://www.frp.org/1.0//sites/all/themes/frp/css/hover.css?s2h0na");
+@import url("https://www.frp.org/1.0//sites/all/themes/frp/css/animate.css?s2h0na");
+@import url("https://www.frp.org/1.0//sites/all/themes/frp/css/style.css?s2h0na");
+@import url("https://www.frp.org/1.0//sites/all/themes/frp/css/responsive.css?s2h0na");
+@import url("https://www.frp.org/1.0//sites/all/themes/frp/css/dev.css?s2h0na");
+</style>
+      <!--[if lt IE 9]>
+    <script src="/1.0//sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  
+</head>
+<body class="main page-home"  onload="initialize();">
+      <!-- revealer -->
+     <!-- <div id="revealer">
+        <div class="revealer__layer" style="background:#E61B25"></div>
+        <div class="revealer__layer" style="background:#F89E1A"></div>
+        <div class="revealer__layer" style="background:#2B5034"></div>
+      </div> -->
+      <!-- revealer end -->
+      <!-- preloader -->
+      <!-- <div id="loader-wrapper">
+          <div class="loader">Loading...</div>
+    </div> -->
+    <!-- preloader end -->
+    <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+            
+          <div class="container bar-top">
+  <div class="row">
+     <div class="col-md-3 bar-topleft">DELIVERING FINANCIAL INCLUSION</div>
+     <div class="col-md-7 bar-topright"><p>An overview of the Fund Journey</p>
+</div>
+     <div class="col-md-2">
+  <div class="learnmore">
+     <a href="/1.0//notifications/delivering-financial-inclusion">Learn More</a>
+  </div>
+</div>
+  </div>
+</div>  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+	<div class="container">
+		     <div class="col-md-2">
+		    <a class="navbar-brand" href="https://www.frp.org/1.0/" title="Home" rel="home" id="logo">
+		      <img src="https://www.frp.org/1.0//sites/all/themes/frp/images/frp_logo.svg" alt="Home" />
+		    </a>
+    </div>
+  	    <div class="col-md-8">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle Navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNav">
+			<ul class="navbar-nav justify-content-end w-100"><li class="nav-item"><a href="/1.0//" class="nav-link active">Home</a></li><li class="nav-item dropdown"><a href="/1.0//about-the-fund" class="nav-link " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About The Fund</a><ul class="dropdown-menu" aria-labelledby="dropdownMenuLink"><li><a href="/1.0//about-the-fund/background" class="dropdown-item">Background</a></li><li><a href="/1.0//about-the-fund/process" class="dropdown-item">Process</a></li><li><a href="/1.0//about-the-fund/competitions" class="dropdown-item">Competitions</a></li></ul></li><li class="nav-item dropdown"><a href="/1.0//projects-overview" class="nav-link " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Portfolio</a><ul class="dropdown-menu" aria-labelledby="dropdownMenuLink"><li><a href="/1.0//projects-supported" class="dropdown-item">Projects Supported</a></li><li><a href="/1.0//project-finder" class="dropdown-item">Project Finder</a></li><li><a href="/1.0//impact-reports/june-2022" class="dropdown-item">Impact</a></li></ul></li><li class="nav-item dropdown"><a href="/1.0//knowledge-hub" class="nav-link " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Knowledge Hub</a><ul class="dropdown-menu" aria-labelledby="dropdownMenuLink"><li><a href="/1.0//knowledge-hub/blog" class="dropdown-item">Blogs</a></li><li><a href="/1.0//knowledge-hub/feature" class="dropdown-item">Features</a></li><li><a href="/1.0//knowledge-hub/press-release" class="dropdown-item">Press Releases</a></li><li><a href="/1.0//knowledge-hub/publication" class="dropdown-item">Publications</a></li><li><a href="/1.0//knowledge-hub/video" class="dropdown-item">Videos</a></li><li><a href="/1.0//knowledge-hub/webinars" class="dropdown-item">Webinars</a></li></ul></li><li class="nav-item dropdown"><a href="/1.0//news-and-events" class="nav-link " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">News &amp; Events</a><ul class="dropdown-menu" aria-labelledby="dropdownMenuLink"><li><a href="/1.0//news-and-events" class="dropdown-item">Fund News &amp; Events</a></li><li><a href="/1.0//participant-news" class="dropdown-item">Participant News</a></li><li><a href="https://frp.org/gallery-image" class="dropdown-item">Gallery</a></li></ul></li><li class="nav-item"><a href="/1.0//content/engage-us" class="nav-link">Engage with us</a></li></ul>		</div>
+    </div>
+    <div class="col-md-2" id="searchicon">
+        <a href="#" class="nav-link"><i aria-hidden="true" class="fa fa-search" style="color:#2B5336;font-size: 24px;"></i></a>
+         <div class="col-md-2 search" id="searchbar">
+        <form action="/1.0/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><div id="edit-button" class="form-item form-type-item">
+ <button type="submit" id="edit-submit-btn" name="op" class="form-submit"><i aria-hidden="true" class="fa fa-search" style="color:#2B5336;font-size: 24px;"></i></button>
+</div>
+<input type="hidden" name="form_build_id" value="form-qtTmrCk1sozyPBuScVOqt6qp_D83BgosVPm264Anq1c" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+    </div>
+   
+	</div>
+</nav>
+<section class="banner">
+	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+		<ol class="carousel-indicators">
+	      
+          <li data-target="#carouselExampleIndicators" data-slide-to="436"></li>        
+          <li data-target="#carouselExampleIndicators" data-slide-to="414"></li>        
+          <li data-target="#carouselExampleIndicators" data-slide-to="304"></li>  </ol>		<div class="carousel-inner">
+			      
+          <div class="carousel-item img-inner-shadow" id="436">
+   <img src="/1.0//sites/default/files/styles/large_1370_by_390/public/slideshow-images/home-banner.png?itok=frM2EcHX" class="d-block w-100" alt="" title="" /> <div class="carousel-caption d-none d-md-block">
+  <h2>PARTICIPANT LEARNING EVENT</h2> <p>Sharing knowledge and networking</p>
+ <a href="https://frp.org/1.0/news-and-events/final-participant-learning-event-0">READ MORE</a>
+</div>
+<div class="layer"></div> 
+</div>        
+          <div class="carousel-item img-inner-shadow" id="414">
+   <img src="/1.0//sites/default/files/styles/large_1370_by_390/public/slideshow-images/TheFundImpactReportJune2022.jpg?itok=c8zc_UNu" class="d-block w-100" alt="The Fund Impact Report June 2022" title="The Fund Impact Report June 2022" /> <div class="carousel-caption d-none d-md-block">
+  <h2>IMPACT REPORT 2022</h2> <p>Growing Financial Inclusion</p>
+ <a href="https://frp.org/1.0/impact-reports/june-2022">Read More</a>
+</div>
+<div class="layer"></div> 
+</div>        
+          <div class="carousel-item img-inner-shadow" id="304">
+   <img src="/1.0//sites/default/files/styles/large_1370_by_390/public/knowledge-hub/WhatsApp%20Image%202021-08-04%20at%2013.45.08.jpeg?itok=AuQnE0DN" class="d-block w-100" alt="" title="" /> <div class="carousel-caption d-none d-md-block">
+  <h2>GENDER ANALYSIS: </h2> <p>Providing Financial Products and Services to Women.</p>
+ <a href="https://frp.org/1.0/knowledge-hub/publication/gender-analysis-providing-financial-products-and-services-women">READ MORE</a>
+</div>
+<div class="layer"></div> 
+</div>  		</div>
+			<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>	</div>
+</section>
+
+
+      
+            <div class="container fund">
+	<div class="row">
+		<div class="col-md-12">
+			<h2>Fund at a glance</h2>		</div>
+	</div>
+	<div class="row wrapper-widget">
+		      
+          <div class="col-md-2 fundBlock">
+ <a href='impact-reports/june-2022'><img src="https://www.frp.org/1.0//sites/default/files/milestone-icons/Impacting%20over5.3millioncustomers%20in%20SubSaharanAfrica.png" width="200" height="140" alt="Impacting over 5.3 million customers in Sub-Saharan Africa" title="Impacting over 5.3 million customers in Sub-Saharan Africa" /> <h4>Impacting over 5.3 million customers in Sub-Saharan Africa</h4></a>
+</div>        
+          <div class="col-md-2 fundBlock">
+ <a href='impact-reports/june-2022'><img src="https://www.frp.org/1.0//sites/default/files/milestone-icons/job-created.png" width="200" height="141" alt="US$ 40,000,000 disbursements matched by US$ 97,000,000 from participants" title="US$ 40,000,000 disbursements matched by US$ 97,000,000 from participants" /> <h4>Over 2.9 million people benefiting from capacity building</h4></a>
+</div>        
+          <div class="col-md-2 fundBlock">
+ <a href='impact-reports/june-2022'><img src="https://www.frp.org/1.0//sites/default/files/milestone-icons/users-reached_0.png" width="200" height="141" alt="Over 146 financial products and services made available" title="Over 146 financial products and services made available" /> <h4>Over 171 new financial products and services launched</h4></a>
+</div>        
+          <div class="col-md-2 fundBlock">
+ <a href='impact-reports/june-2022'><img src="https://www.frp.org/1.0//sites/default/files/milestone-icons/literacy.png" width="200" height="141" alt="More than 200,000 people trained on financial literacy" title="More than 200,000 people trained on financial literacy" /> <h4>Over 5,000 direct jobs created within participant businesses</h4></a>
+</div>        
+          <div class="col-md-2 fundBlock">
+ <a href='impact-reports/june-2022'><img src="https://www.frp.org/1.0//sites/default/files/milestone-icons/78%25ofdirectjobscreatedareforthoseunder35.png" width="200" height="140" alt="78%ofdirectjobscreatedareforthoseunder35" title="78%ofdirectjobscreatedareforthoseunder35" /> <h4>78% of direct jobs created are for those under 35</h4></a>
+</div>  	</div>
+</div><div class="tumbnail-slider">
+ <div class="row">
+  <div class="col-md-12">
+   <div class="container current">
+       
+                  
+         <h2>Projects Supported</h2>
+             
+       
+       <div class="carousel slide homepage" id="carouselExampleControls" data-ride="carousel">
+              
+                            
+              <div class="carousel-inner homeProjects">
+                     <div class='carousel-item'> <div class='row'>  
+          <div class="col-md-2 col-sm-6 col-6 projectholder">
+ <div class="pad15 ih-item square colored effect13 bottom_to_top">
+  <a href="/1.0//finance-oriented/apa-insurance">
+ <div class="img"><img src="https://www.frp.org/1.0//sites/default/files/styles/medium_350_x_350/public/project-images/APA-Insurancep.jpg?itok=AVQA5abZ" width="350" height="350" alt="APA-Insurance" title="APA-Insurance" /></div>
+ <div class="info">
+ <h3>APA Insurance</h3><p>An insurance company providing insurance to rural Kenyan farmers.</p>
+
+</div>
+
+</a>
+ </div>
+</div>    
+          <div class="col-md-2 col-sm-6 col-6 projectholder">
+ <div class="pad15 ih-item square colored effect13 bottom_to_top">
+  <a href="/1.0//agribusiness/apollo-agriculture">
+ <div class="img"><img src="https://www.frp.org/1.0//sites/default/files/styles/medium_350_x_350/public/project-images/ApolloAgricultureIncp.jpg?itok=8tSNPCqH" width="350" height="350" alt="ApolloAgricultureInc" title="ApolloAgricultureInc" /></div>
+ <div class="info">
+ <h3>Apollo Agriculture</h3><p>An agribusiness using a digital approach to smallholder agricultural finance.</p>
+
+</div>
+
+</a>
+ </div>
+</div>    
+          <div class="col-md-2 col-sm-6 col-6 projectholder">
+ <div class="pad15 ih-item square colored effect13 bottom_to_top">
+  <a href="/1.0//finance-oriented/banque-atlantique-c%C3%B4te-divoire">
+ <div class="img"><img src="https://www.frp.org/1.0//sites/default/files/styles/medium_350_x_350/public/project-images/BanqueAtlantique.jpg?itok=o47GumDO" width="350" height="350" alt="BanqueAtlantique" title="BanqueAtlantique" /></div>
+ <div class="info">
+ <h3>Banque Atlantique Côte D&#039;Ivoire</h3><p>Developing innovative access to finance and micro-insurance for the unbanked.</p>
+
+</div>
+
+</a>
+ </div>
+</div>    
+          <div class="col-md-2 col-sm-6 col-6 projectholder">
+ <div class="pad15 ih-item square colored effect13 bottom_to_top">
+  <a href="/1.0//finance-oriented/baobab-mali">
+ <div class="img"><img src="https://www.frp.org/1.0//sites/default/files/styles/medium_350_x_350/public/project-images/BaobabMali.jpg?itok=nDre09mY" width="350" height="350" alt="Baobab+ Mali" title="Baobab+ Mali" /></div>
+ <div class="info">
+ <h3>Baobab+ Mali</h3><p>A digital finance company addressing the issue of micro &amp; SME financing.</p>
+
+</div>
+
+</a>
+ </div>
+</div>    
+          <div class="col-md-2 col-sm-6 col-6 projectholder">
+ <div class="pad15 ih-item square colored effect13 bottom_to_top">
+  <a href="/1.0//agribusiness/biopartenaire">
+ <div class="img"><img src="https://www.frp.org/1.0//sites/default/files/styles/medium_350_x_350/public/project-images/Biopartenairle.jpg?itok=Le43brVZ" width="350" height="350" alt="Biopartenaire" title="Biopartenaire" /></div>
+ <div class="info">
+ <h3>Biopartenaire</h3><p>Improving farmers' access to credit to drive sustainable cocoa production.</p>
+
+</div>
+
+</a>
+ </div>
+</div>    
+          <div class="col-md-2 col-sm-6 col-6 projectholder">
+ <div class="pad15 ih-item square colored effect13 bottom_to_top">
+  <a href="/1.0//finance-oriented/compuscan">
+ <div class="img"><img src="https://www.frp.org/1.0//sites/default/files/styles/medium_350_x_350/public/project-images/Compuscanf.jpg?itok=4qZnn-aG" width="350" height="350" alt="Compuscan" title="Compuscan" /></div>
+ <div class="info">
+ <h3>Compuscan</h3><p>Providing risk management solutions to its clients in Uganda.</p>
+
+</div>
+
+</a>
+ </div>
+</div>  </div></div><div class='carousel-item'> <div class='row'>  
+          <div class="col-md-2 col-sm-6 col-6 projectholder">
+ <div class="pad15 ih-item square colored effect13 bottom_to_top">
+  <a href="/1.0//finance-oriented/copia-global">
+ <div class="img"><img src="https://www.frp.org/1.0//sites/default/files/styles/medium_350_x_350/public/copiap.jpg?itok=RdWN1x3H" width="350" height="350" alt="copia" title="copia" /></div>
+ <div class="info">
+ <h3>Copia Global</h3><p>Opening up e-commerce channels to the underserved.</p>
+
+</div>
+
+</a>
+ </div>
+</div>    
+          <div class="col-md-2 col-sm-6 col-6 projectholder">
+ <div class="pad15 ih-item square colored effect13 bottom_to_top">
+  <a href="/1.0//finance-oriented/crdb-microfinance-services">
+ <div class="img"><img src="https://www.frp.org/1.0//sites/default/files/styles/medium_350_x_350/public/cdrbthumb.png?itok=JT26dIaU" width="350" height="350" alt="cdrbthumb" title="cdrbthumb" /></div>
+ <div class="info">
+ <h3>CRDB Microfinance Services</h3><p>A microfinance company offering both wholesale and retail microfinance services.</p>
+
+</div>
+
+</a>
+ </div>
+</div>    
+          <div class="col-md-2 col-sm-6 col-6 projectholder">
+ <div class="pad15 ih-item square colored effect13 bottom_to_top">
+  <a href="/1.0//finance-oriented/dodore-kenya">
+ <div class="img"><img src="https://www.frp.org/1.0//sites/default/files/styles/medium_350_x_350/public/project-images/DodoreKenya.jpg?itok=BmPMXk0J" width="350" height="350" alt="DodoreKenya" title="DodoreKenya" /></div>
+ <div class="info">
+ <h3>Dodore Kenya</h3><p>Enabling farmers to increase their farm profit and agricultural production.</p>
+
+</div>
+
+</a>
+ </div>
+</div>    
+          <div class="col-md-2 col-sm-6 col-6 projectholder">
+ <div class="pad15 ih-item square colored effect13 bottom_to_top">
+  <a href="/1.0//finance-oriented/easy-solar">
+ <div class="img"><img src="https://www.frp.org/1.0//sites/default/files/styles/medium_350_x_350/public/project-images/EasySolar.jpg?itok=M6Xee95C" width="350" height="350" alt="DodoreKenya" title="DodoreKenya" /></div>
+ <div class="info">
+ <h3>Easy Solar</h3><p>Providing consumer financing for solar powered lighting and appliances.</p>
+
+</div>
+
+</a>
+ </div>
+</div>                       
+              </div>
+              </div>
+
+   </div>
+<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <button class="btn btn-primary leftLst over">
+         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+         <span class="sr-only">Previous</span>
+    </button>
+  </a>
+<a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <button class="btn btn-primary rightLst">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+  </button>
+  </a>  </div>
+
+
+ </div>
+</div>
+</div>
+</div>
+<div class="tumbnail-slider" style="background:#fff;margin-top:0px;">
+ <div class="row">
+  <div class="col-md-12">
+   <div class="container current">
+       
+                  
+         <h2>participant views</h2>
+             
+       
+       <div class="carousel slide homepage" id="carouselExampleControls02" data-ride="carousel">
+              
+                            
+              <div class="carousel-inner homeProjects02">
+                     <div class='carousel-item'> <div class='row'>  
+          <div class="col-md-2 col-sm-6 col-6 projectholder">
+ <div class="pad15 ih-item square colored effect13 bottom_to_top">
+  <a href="/1.0//content/ibero-uganda-our-experience-working-fund">
+ <img src="https://www.frp.org/1.0//sites/default/files/styles/medium_350_x_350/public/ibero2.png?itok=E0daxok8" width="350" height="350" alt="ibero" title="ibero" />
+ <div class="info">
+ <h3>IBERO UGANDA: OUR EXPERIENCE WORKING WITH THE FUND</h3><p>Ibero Uganda’s journey with the Mastercard Foundation Fund for Rural Prosperity started in 2017.</p>
+
+</div>
+
+</a>
+ </div>
+</div>    
+          <div class="col-md-2 col-sm-6 col-6 projectholder">
+ <div class="pad15 ih-item square colored effect13 bottom_to_top">
+  <a href="/1.0//content/crdb-bank-and-its-fund-related-project">
+ <img src="https://www.frp.org/1.0//sites/default/files/styles/medium_350_x_350/public/cdrbthumb.png?itok=JT26dIaU" width="350" height="350" alt="cdrbthumb" title="cdrbthumb" />
+ <div class="info">
+ <h3>CRDB BANK AND ITS FUND RELATED PROJECT</h3><p>CRDB Bank received Fund support in relation to rolling out its mobile wallet solution. </p>
+
+</div>
+
+</a>
+ </div>
+</div>    
+          <div class="col-md-2 col-sm-6 col-6 projectholder">
+ <div class="pad15 ih-item square colored effect13 bottom_to_top">
+  <a href="/1.0//content/copia-global-our-experience-working-fund">
+ <img src="https://www.frp.org/1.0//sites/default/files/styles/medium_350_x_350/public/copiap.jpg?itok=RdWN1x3H" width="350" height="350" alt="copia" title="copia" />
+ <div class="info">
+ <h3>COPIA GLOBAL: OUR EXPERIENCE WORKING WITH THE FUND</h3><p>Support from the Fund proved <strong>the potential of financial services and its role in Copia’s overall portfolio. </strong><strong> </strong></p>
+
+</div>
+
+</a>
+ </div>
+</div>                       
+              </div>
+              </div>
+
+   </div>
+<a class="carousel-control-prev" href="#carouselExampleControls02" role="button" data-slide="prev">
+    <button class="btn btn-primary leftLst over">
+         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+         <span class="sr-only">Previous</span>
+    </button>
+  </a>
+<a class="carousel-control-next" href="#carouselExampleControls02" role="button" data-slide="next">
+    <button class="btn btn-primary rightLst">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+  </button>
+  </a>  </div>
+
+
+ </div>
+</div>
+</div>
+</div>
+<div class="container social">
+	<div class="row">
+		<div class="equalHeight col-md-3 os-animation animated fadeInLeft" data-os-animation="fadeInLeft" data-os-animation-delay="0">
+			<h2>Twitter</h2>
+			<div class="panel">
+			<blockquote class="twitter-tweet"><p lang="en" dir="ltr">To assess the kind of impact being made by Fund participants, more detailed impact verification studies were conducted on selected business projects. These are summarised in this report: <a href="https://t.co/zNOpMaVlsD">https://t.co/zNOpMaVlsD</a> <a href="https://twitter.com/hashtag/FinancialInclusion?src=hash&amp;ref_src=twsrc%5Etfw">#FinancialInclusion</a> <a href="https://twitter.com/hashtag/RuralProsperity?src=hash&amp;ref_src=twsrc%5Etfw">#RuralProsperity</a> <a href="https://twitter.com/hashtag/DigitalTransformation?src=hash&amp;ref_src=twsrc%5Etfw">#DigitalTransformation</a> <a href="https://t.co/fJgaTydDPu">pic.twitter.com/fJgaTydDPu</a></p>&mdash; Fund for Rural Prosperity (@MCFoundationFRP) <a href="https://twitter.com/MCFoundationFRP/status/1678690915718778880?ref_src=twsrc%5Etfw">July 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+		<!--<div id="Twitter-widget"></div>-->
+			</div>
+		</div>
+		<div class="equalHeight col-md-3 os-animation animated fadeInLeft" data-os-animation="fadeInLeft" data-os-animation-delay="0">
+  	<h2>What's Happening </h2>
+
+   <div class="panel">
+   <div class="ticker">
+  <ul>
+        
+          <li>
+    <h5>BAOBAB+ RECEIVES NEW FUNDING</h5>
+    <p>Baobab+ has received a EUR 5 million loan from Symbiotics to strengthen its presence in six...</p>
+    <span class="readmore"><a href="https://symbioticsgroup.com/symbiotics-granted-baobab-eur-5-million-loan-to-expand-electrifications-at-a-larger-scale-in-6-african-countries/">Read more</a></span>
+</li>
+        
+          <li>
+    <h5>FARMERLINE CEO INTERVIEW</h5>
+    <p>In this interview, Farmerline CEO Alloysius Atta speaks about global fertilizer shortages, the...</p>
+    <span class="readmore"><a href="https://www.youtube.com/watch?v=IyZlx5OJStg&t=1s">Read more</a></span>
+</li>
+        
+          <li>
+    <h5>COPIA GLOBAL SCALING TO UGANDA</h5>
+    <p>Copia Global has announced plans to establish a state-of-the-art fulfilment centre in Namanve,...</p>
+    <span class="readmore"><a href="https://pctechmag.com/2022/06/copia-global-set-to-establish-state-of-the-art-fulfillment-center-in-uganda/">Read more</a></span>
+</li>
+    </ul>
+</div>
+<a href="./news-and-events/" style="margin-top: 5px;clear: both;display: block;">View All</a>
+</div>
+</div>
+		<div class="equalHeight col-md-6 featured os-animation animated fadeInRight " data-os-animation="fadeInRight" data-os-animation-delay="0">
+		<h2>The fund journey</h2>
+		<div class="panel">
+						      
+          <div class="pic"><img src="https://www.frp.org/1.0//sites/default/files/styles/medium_620_x_320/public/project-images/Transforming%20Lives.png?itok=c8Kf43Hg" width="620" height="320" alt="" /></div>    
+          <h6>IMPACTING LIVES AND UPLIFTING COMMUNITIES</h6>    
+          <p>A comprehensive look at the Fund, its participants and the impact that financial inclusion has had on rural communities and value chains through the eyes of stakeholders, including beneficiaries and participants.</p>
+    
+          <span class="readmore"><a href="/1.0//finance-oriented/impacting-lives-and-uplifting-communities">Watch Video</a></span>  			</div>
+		</div>
+	</div>
+</div>	<footer class="footer">
+		<div class="container">
+	<div class="row">
+		<div class="col-md-4 quick"><h3>Quick Links</h3><ul><li class="menu__item is-leaf first leaf"><a href="/1.0//" class="menu__link active">Home</a></li>
+<li class="menu__item is-leaf leaf"><a href="/1.0//news-and-events" class="menu__link">News &amp; Events</a></li>
+<li class="menu__item is-leaf leaf"><a href="/1.0//about-the-fund" class="menu__link">About the Fund</a></li>
+<li class="menu__item is-leaf leaf"><a href="/1.0//our-partners" class="menu__link">Partners</a></li>
+<li class="menu__item is-leaf leaf"><a href="/1.0//portfolio" class="menu__link">Portfolio</a></li>
+<li class="menu__item is-leaf leaf"><a href="/1.0//content/engage-us" class="menu__link">Engage With Us</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/1.0//knowledge-hub" class="menu__link">Knowledge Hub</a></li>
+</ul></div><!-- Name : Contact us block -->
+<div class="col-md-3">
+		  <h3>Contact Us</h3>
+	  	<p>Mastercard Foundation Fund for Rural Prosperity,<br />
+8th Floor, ABC Towers,<br />
+ABC Place, Waiyaki Way,<br />
+PO Box 40612-00100 Nairobi, Kenya</p>
+<p>Tel: +254 (20) 2806000</p>
+<p>Email: <a href="mailto:info@frp.org">Send us an email</a></p>
+</div>
+<!-- Name : Follow Us block -->
+<div class="col-md-5 follow">
+		  <h3>Follow Us</h3>
+	  	<ul>
+        <li><a href="/info/newsletter-subscription" class=""><img src="https://www.frp.org/1.0/sites/default/files/emailsubscription-115px.jpeg" style="width: 100px;height: 100px;"/></a></li>
+	<li><a href="https://www.facebook.com/FundforRuralProsperity" target="_blank"><img alt="https://www.facebook.com/FundforRuralProsperity" title="https://www.facebook.com/FundforRuralProsperity" height="75" src="https://www.frp.org/1.0/sites/default/files/facebook-social.png" width="75" /></a></li>
+	<li><a href="https://twitter.com/MCFoundationFRP" target="_blank"><img alt="https://twitter.com/MCFoundationFRP" title="https://twitter.com/MCFoundationFRP" height="75" src="https://www.frp.org/1.0/sites/default/files/twitter-social.png" width="75" /></a></li>
+	<li><a href="https://www.linkedin.com/company/the-mastercard-foundation-fund-for-rural-prosperity" target="_blank"><img alt="https://www.linkedin.com/company/the-mastercard-foundation-fund-for-rural-prosperity" title="https://www.linkedin.com/company/the-mastercard-foundation-fund-for-rural-prosperity" height="75" src="https://www.frp.org/1.0/sites/default/files/linkedin.png" width="76" /></a></li>
+	<li><a href="https://www.youtube.com/channel/UC1kfqbSanVYPrIcsTmaRvkA?disable_polymer=true" target="_blank"><img alt="https://www.youtube.com/channel/UC1kfqbSanVYPrIcsTmaRvkA"  title="https://www.youtube.com/channel/UC1kfqbSanVYPrIcsTmaRvkA" height="75" src="https://www.frp.org/1.0/sites/default/files/youtube.png" width="75" /></a></li>
+
+</ul>
+<hr />
+<div class=""></div></div>
+	</div>
+</div>
+		<div class="row white">
+	 <div class="container">
+	   <div class="row">
+	   	<!-- Mastercard logo in footer -->
+<div class="col-md-12">
+	<div class="row">
+<div class="col-md-6">
+<p>© 2022 Mastercard Foundation. All rights reserved.</p>
+</div>
+<div class="col-md-6">
+<p><img alt="RAFLL_1.png" src="https://www.frp.org/1.0/sites/default/files/learning2.png" style="width:100px" />        <img alt="TRIPLINE__0.png" src="https://frp.org/1.0/sites/default/files/nathan3.png" style="width:100px" />         <img alt="small_380446559-nathan__0.png" src="https://frp.org/1.0/sites/default/files/TRIPLINE.png" style="width:110px" />       <img alt="small_KPMG_0.png" src="https://frp.org/1.0/sites/default/files/kpmglogo.png" style="width:80px" />        </p>
+</div>
+</div>
+</div>	   </div>
+	 </div>
+ </div>	</footer>
+     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD1pU1Y3i3UWcgs7GzMkGKd-ti3Q1_rz6A"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/1.0//sites/all/modules/jquery_update/replace/jquery/3.1/jquery.min.js'>\x3C/script>")</script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="//code.jquery.com/jquery-migrate-3.0.0.min.js"></script>
+<script>window.jQuery && window.jQuery.migrateWarnings || document.write("<script src='/1.0//sites/all/modules/jquery_update/replace/jquery-migrate/3/jquery-migrate.min.js'>\x3C/script>")</script>
+<script src="https://www.frp.org/1.0//misc/jquery-extend-3.4.0.js?v=3.1.1"></script>
+<script src="https://www.frp.org/1.0//misc/jquery-html-prefilter-3.5.0-backport.js?v=3.1.1"></script>
+<script src="https://www.frp.org/1.0//misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.frp.org/1.0//misc/drupal.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//sites/all/modules/eu_cookie_compliance/js/jquery.cookie-1.4.1.min.js?v=1.4.1"></script>
+<script src="https://www.frp.org/1.0//sites/all/modules/jquery_update/replace/jquery.form/4/jquery.form.min.js?v=4.2.1"></script>
+<script src="https://www.frp.org/1.0//misc/ajax.js?v=7.92"></script>
+<script src="https://www.frp.org/1.0//sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script src="https://www.frp.org/1.0//sites/all/modules/download_verify/js/download_verify.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//misc/jquery.cookie.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//sites/all/modules/iframe/iframe.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//sites/all/modules/views/js/base.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//misc/progress.js?v=7.92"></script>
+<script src="https://www.frp.org/1.0//sites/all/modules/views/js/ajax_view.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//sites/all/themes/frp/js/fontawesome.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//sites/all/themes/frp/js/bootstrap.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//sites/all/themes/frp/js/loader.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//sites/all/themes/frp/js/ticker.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//sites/all/themes/frp/js/tiwtter.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//sites/all/themes/frp/js/popper.min.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//sites/all/themes/frp/js/bootstrap-formhelpers.min.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//sites/all/themes/frp/js/markerclusterer.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//sites/all/themes/frp/js/map.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//sites/all/themes/frp/js/myscript.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//sites/all/themes/frp/js/ffl.js?s2h0na"></script>
+<script src="https://www.frp.org/1.0//sites/all/themes/frp/js/dev.js?s2h0na"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/1.0\/\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"frp","theme_token":"sdKonYtg7IUQ48Mg_hIGAhr9xrLq5s7jJgn4iI13Moc","jquery_version":"3.1","js":{"0":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.min.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.1.1\/jquery.min.js":1,"1":1,"2":1,"\/\/code.jquery.com\/jquery-migrate-3.0.0.min.js":1,"3":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/jquery.cookie-1.4.1.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery.form\/4\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/download_verify\/js\/download_verify.js":1,"https:\/\/www.frp.org\/1.0\/\/misc\/jquery.cookie.js":1,"sites\/all\/modules\/iframe\/iframe.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/frp\/js\/fontawesome.js":1,"sites\/all\/themes\/frp\/js\/bootstrap.js":1,"sites\/all\/themes\/frp\/js\/loader.js":1,"sites\/all\/themes\/frp\/js\/ticker.js":1,"sites\/all\/themes\/frp\/js\/tiwtter.js":1,"sites\/all\/themes\/frp\/js\/popper.min.js":1,"sites\/all\/themes\/frp\/js\/bootstrap-formhelpers.min.js":1,"sites\/all\/themes\/frp\/js\/markerclusterer.js":1,"sites\/all\/themes\/frp\/js\/map.js":1,"sites\/all\/themes\/frp\/js\/myscript.js":1,"sites\/all\/themes\/frp\/js\/ffl.js":1,"sites\/all\/themes\/frp\/js\/dev.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/download_verify\/css\/download_verify.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"public:\/\/ctools\/css\/291ebba2cae7ecc09948922214400aa0.css":1,"sites\/all\/themes\/zen\/system.menus.css":1,"sites\/all\/themes\/frp\/css\/bootstrap.css":1,"sites\/all\/themes\/frp\/css\/hover.css":1,"sites\/all\/themes\/frp\/css\/animate.css":1,"sites\/all\/themes\/frp\/css\/style.css":1,"sites\/all\/themes\/frp\/css\/responsive.css":1,"sites\/all\/themes\/frp\/css\/dev.css":1}},"download_verify":{"download_verify_email":"web@zilojo.com","download_verify_css_target":"download-link-container","download_verify_intro_text":"Please complete your details to continue the download.","download_verify_footer_text":"Emails are collected for marketing purposes in line with our privacy policy.","download_verify_cookie_display":"1","download_verify_cookie_expiry":"31104000","download_verify_mail_script_path":"https:\/\/www.frp.org\/1.0\/\/sites\/all\/modules\/download_verify\/download_verify_mail_send.php","download_verify_mail_token":"59u28i4w8vlGdOl_FynM-uhfWbRli1MusMlGF0lhFTQ"},"views":{"ajax_path":"\/1.0\/\/views\/ajax","ajaxViews":{"views_dom_id:6e02647858eeda2b56cd21e65b2dddd6":{"view_name":"news_events","view_display_id":"homepage_news_events","view_args":"","view_path":"home","view_base_path":"participant-news","view_dom_id":"6e02647858eeda2b56cd21e65b2dddd6","pager_element":0}}},"urlIsAjaxTrusted":{"\/1.0\/\/views\/ajax":true,"\/1.0\/":true},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use \u2018cookies\u2019 and related technologies on this site to help identify you and your devices, to operate our site, to enhance your user experience and conduct communications and analysis.\u003C\/h2\u003E\n\u003Cp\u003EBy clicking ok or any page on this site, you are giving us consent to set cookies.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ELearn more in our Privacy Statement\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EOK, I agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy tapping the Accept button, you agree to us doing so.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ELearn more in our Privacy Statement\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EOK, I agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/frp.org\/info\/privacy-policy","popup_link_new_window":1,"popup_position":null,"fixed_top_position":1,"popup_language":"en","store_consent":true,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","domain_all_sites":0,"popup_eu_only_js":0,"cookie_lifetime":"30","cookie_session":false,"disagree_do_not_show_popup":0,"method":"opt_in","allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EWe value your privacy\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false,"withdraw_button_on_info_popup":1,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":1,"cookie_name":"","cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","automatic_cookies_removal":true,"close_button_action":"close_banner"}});</script>
+  <script>window.eu_cookie_compliance_cookie_name = "";</script>
+<script defer="defer" src="https://www.frp.org/1.0//sites/all/modules/eu_cookie_compliance/js/eu_cookie_compliance.min.js?s2h0na"></script>
+
+  
+  <script src="/1.0//sites/all/themes/frp/js/global.js"></script>
+  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-18474211-30"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-18474211-30');
+</script>
+</body>
+</html>

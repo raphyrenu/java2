@@ -1,0 +1,809 @@
+<!doctype html>
+
+<html class="no-js" lang="zxx">
+
+
+    <head>
+
+    <meta charset="utf-8">
+
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <meta name="description" content="">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    
+    <link rel="shortcut icon" href="">
+
+    
+    
+    <title>Masterbeauty &#8211; Products &#8211; Just another WordPress site</title>
+<meta name='robots' content='noindex, nofollow' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Masterbeauty - Products &raquo; Feed" href="https://masterbeautyproducts.rw/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Masterbeauty - Products &raquo; Comments Feed" href="https://masterbeautyproducts.rw/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/masterbeautyproducts.rw\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://masterbeautyproducts.rw/wp-includes/css/dist/block-library/style.min.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://masterbeautyproducts.rw/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/css/bootstrap.min.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/css/owl.carousel.min.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/css/animate.min.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/css/magnific-popup.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-all-css'  href='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/css/fontawesome-all.min.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='brushup-themify-icons-css'  href='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/css/themify-icons.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='metisMenu-css'  href='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/css/metisMenu.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/css/slick.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='brushup-default-css'  href='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/css/default.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='brushup-main-css'  href='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/css/main.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='brushup-responsive-css'  href='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/css/responsive.css?ver=5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='brushup-css-css'  href='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/style.css?ver=2020-06-05' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://masterbeautyproducts.rw/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://masterbeautyproducts.rw/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.11' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://masterbeautyproducts.rw/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.11' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://masterbeautyproducts.rw/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.11' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-516-css'  href='https://masterbeautyproducts.rw/wp-content/uploads/elementor/css/post-516.css?ver=1627811085' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://masterbeautyproducts.rw/wp-content/uploads/elementor/css/global.css?ver=1627811085' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-48-css'  href='https://masterbeautyproducts.rw/wp-content/uploads/elementor/css/post-48.css?ver=1629381910' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.8' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://masterbeautyproducts.rw/wp-json/" /><link rel="alternate" type="application/json" href="https://masterbeautyproducts.rw/wp-json/wp/v2/pages/48" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://masterbeautyproducts.rw/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://masterbeautyproducts.rw/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8" />
+<link rel="canonical" href="https://masterbeautyproducts.rw/" />
+<link rel='shortlink' href='https://masterbeautyproducts.rw/' />
+<link rel="alternate" type="application/json+oembed" href="https://masterbeautyproducts.rw/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmasterbeautyproducts.rw%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://masterbeautyproducts.rw/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmasterbeautyproducts.rw%2F&#038;format=xml" />
+<style type="text/css" title="dynamic-css" class="options-output">body{color:#333;}</style>
+    </head>
+
+    <body id="post-48" class="post-48 page type-page status-publish hentry">
+
+        <!-- header-start -->
+
+        <header>
+
+            <div id="sticky-header" class="main-menu-area blog-menu">
+
+                <div class="container">
+
+                    <div class="row align-items-center">
+
+                        <div class="col-xl-3 col-lg-3 col-md-4 col-8">
+
+                            <div class="logo logo-bg">
+
+                                <a  href="https://masterbeautyproducts.rw/">
+
+                                
+                                <img src="https://masterbeautyproducts.rw/wp-content/uploads/2021/08/Picture1.png" alt="">
+
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                        <div class="col-xl-9 col-lg-9 d-none d-xl-block d-lg-block">
+
+                            <div class="row">
+
+                                <div class="col-xl-12 d-none d-lg-block">
+
+                                    <div class="header-top mt-15">
+
+                                        <div class="main-menu">
+
+                                            <nav id="mobile-menu">
+
+                                                <ul  class=" "><li id="menu-item-397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item dropdown-submenus menu-item-397 active"><a   title="Home" href="https://masterbeautyproducts.rw/">Home</a></li>
+<li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-submenus menu-item-90"><a   title="About" href="https://masterbeautyproducts.rw/about/">About</a></li>
+<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-submenus menu-item-101"><a   title="Team" href="https://masterbeautyproducts.rw/team/">Team</a></li>
+<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-submenus menu-item-99"><a   title="Our Products" href="https://masterbeautyproducts.rw/projects/">Our Products</a></li>
+<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page dropdown-submenus menu-item-112"><a   title="Contact" href="https://masterbeautyproducts.rw/contact/">Contact</a></li>
+</ul>
+                                            </nav>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            
+
+                        </div>
+
+                        <div class="col-md-8 col-4 d-block d-xl-none d-lg-none text-right">
+
+                            <div class="open-mobile-menu">
+                                <a href="javascript:void(0);">
+                                    <i class="far fa-bars"></i>
+                                </a>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </header>
+
+        <aside class="slide-bar">
+            <div class="close-mobile-menu">
+                <a href="javascript:void(0);"><i class="fas fa-times"></i></a>
+            </div>
+            <nav class="side-mobile-menu">
+                  <ul id="mobile-menu-active" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item menu-item-397"><a href="https://masterbeautyproducts.rw/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="https://masterbeautyproducts.rw/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://masterbeautyproducts.rw/team/">Team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="https://masterbeautyproducts.rw/projects/">Our Products</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="https://masterbeautyproducts.rw/contact/">Contact</a></li>
+</ul>              </nav>
+        </aside>
+        <div class="body-overlay"></div>
+        <!--    Slide Bar End    -->
+<main>
+  
+          		<div data-elementor-type="wp-page" data-elementor-id="48" class="elementor elementor-48" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-78ef1e5 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="78ef1e5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-372b807" data-id="372b807" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-53db923 elementor-align-Left elementor-widget elementor-widget-bdevs-slider3" data-id="53db923" data-element_type="widget" data-widget_type="bdevs-slider3.default">
+				<div class="elementor-widget-container">
+			  
+<section class="hero-area">
+
+        <div class="hero-slider">
+
+            <div class="slider-active">
+            	                <div class="single-slider slider-height d-flex align-items-center"
+
+                    data-background="https://masterbeautyproducts.rw/wp-content/uploads/2021/08/slide2.png">
+
+                    <div class="container">
+
+                        <div class="row">
+
+                            <div class="col-xl-6 col-lg-8">
+
+                                <div class="hero-02-text">
+
+                                    <div class="hero-slider-caption ">
+                                    	                                        <h5 class="white" data-animation="fadeInUp" data-delay=".2s">Cosmetics industry in Kigali<span></span> </h5>
+                                                                                                                                                                <p data-animation="fadeInUp" data-delay=".6s">The leading manufacturer of cleaning product in Rwanda</p>
+                                                                            </div>
+                                                                        <div class="hero-slider-btn">
+
+                                        <a data-animation="fadeInUp" data-delay=".8s" href="https://masterbeautyproducts.rw/about/"
+
+                                            class="c-btn">Learn More<i class="far fa-long-arrow-right"></i></a>
+
+                                    </div>
+                                                                    </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+                                <div class="single-slider slider-height d-flex align-items-center"
+
+                    data-background="https://masterbeautyproducts.rw/wp-content/uploads/2021/08/slide1.png">
+
+                    <div class="container">
+
+                        <div class="row">
+
+                            <div class="col-xl-6 col-lg-8">
+
+                                <div class="hero-02-text">
+
+                                    <div class="hero-slider-caption ">
+                                    	                                        <h5 class="white" data-animation="fadeInUp" data-delay=".2s">Cosmetics industry in Kigali<span></span> </h5>
+                                                                                                                                                                <p data-animation="fadeInUp" data-delay=".6s">The leading manufacturer of cleaning product in Rwanda</p>
+                                                                            </div>
+                                                                        <div class="hero-slider-btn">
+
+                                        <a data-animation="fadeInUp" data-delay=".8s" href="https://masterbeautyproducts.rw/about/"
+
+                                            class="c-btn">Learn More<i class="far fa-long-arrow-right"></i></a>
+
+                                    </div>
+                                                                    </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+                                
+
+            </div>
+
+        </div>
+
+    </section>
+			</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2812762 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="2812762" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-664fea0" data-id="664fea0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-30de099 elementor-align-left elementor-widget elementor-widget-bdevs-about" data-id="30de099" data-element_type="widget" data-widget_type="bdevs-about.default">
+				<div class="elementor-widget-container">
+			 
+<div class="about-area pt-120 pb-90">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-xl-6 col-lg-6">
+
+                    <div class="about-img mb-30">
+
+                        <img src="https://masterbeautyproducts.rw/wp-content/uploads/2021/08/images.jpeg" alt="">
+
+                    </div>
+
+                </div>
+
+                <div class="col-xl-6 col-lg-6">
+
+                    <div class="about-wrappe ml-40 mb-30">
+
+                        <div class="section-title mb-45">
+                        	                            <h5>About the Agency<span class="border-right-1"></span></h5>
+                                                                                    <h2>We Have <span>15 Years</span> Of Experience</h2>
+                                                    </div>
+
+                        <div class="about-list">
+
+                            <ul>
+                            	                                <li>Have latest technical know-how</li>
+                                                                <li>Use bio degradable products</li>
+                                                                <li>Having high retention rate of clients as well as employees</li>
+                                                                <li>CHS complies with all provisions of Labor Laws</li>
+                                                            </ul>
+
+                        </div>
+                                                <div class="about-button mt-45">
+
+                            <a class="c-btn" href="Enter your Link">Enter your Button<i class="far fa-long-arrow-right"></i></a>
+
+                        </div>
+                                            </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+			</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-03ff528 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="03ff528" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b10b0f6" data-id="b10b0f6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ed53c0b elementor-align-center elementor-widget elementor-widget-bdevs-projects2" data-id="ed53c0b" data-element_type="widget" data-widget_type="bdevs-projects2.default">
+				<div class="elementor-widget-container">
+			 
+<div class="project-area  pb-90 p-padding ">
+
+        <div class="container">
+
+            <div class="row mb-40">
+
+                <div class="col-xl-6 col-lg-6 col-md-7">
+
+                    <div class="section-title mb-30">
+
+                                                <h5>Portfolio <span class="border-right-1"></span></h5>
+                                                                        <h2>Our Products</h2>
+                        
+                    </div>
+
+                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6">
+
+                    <div class="projects-button text-md-right mt-45 mb-30">
+
+                        <a class="c-btn" href="#">View All Products <i class="far fa-long-arrow-right"></i></a>
+
+                    </div>
+
+                </div>
+                
+            </div>
+
+            <div class="row">
+
+                
+
+                				
+                <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+
+                    <div class="project-wrapper project-02-wrapper pos-rel">
+
+                        <div class="project-img">
+
+                            <a class="popup-image" href="https://masterbeautyproducts.rw/wp-content/uploads/2020/06/DSC_0332-copy-1.jpeg"><img src="https://masterbeautyproducts.rw/wp-content/uploads/2020/06/DSC_0332-copy-1.jpeg" alt=""></a>
+
+                        </div>
+
+                        <div class="project-text white-bg">
+
+                                                        <span>Cleaning</span>
+                            
+                            <h4><a href="https://masterbeautyproducts.rw/project/our-project-here-2/">Master wash</a></h4>
+
+                        </div>
+
+                        <div class="project-button">
+
+                            <a href="https://masterbeautyproducts.rw/project/our-project-here-2/"><i class="far fa-long-arrow-right"></i></a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+                				
+                <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+
+                    <div class="project-wrapper project-02-wrapper pos-rel">
+
+                        <div class="project-img">
+
+                            <a class="popup-image" href="https://masterbeautyproducts.rw/wp-content/uploads/2020/06/DSC_0330-copy-1.jpeg"><img src="https://masterbeautyproducts.rw/wp-content/uploads/2020/06/DSC_0330-copy-1.jpeg" alt=""></a>
+
+                        </div>
+
+                        <div class="project-text white-bg">
+
+                                                        <span>Cleaning</span>
+                            
+                            <h4><a href="https://masterbeautyproducts.rw/project/cleaning-your-home/">Master Hand wash</a></h4>
+
+                        </div>
+
+                        <div class="project-button">
+
+                            <a href="https://masterbeautyproducts.rw/project/cleaning-your-home/"><i class="far fa-long-arrow-right"></i></a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+                				
+                <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+
+                    <div class="project-wrapper project-02-wrapper pos-rel">
+
+                        <div class="project-img">
+
+                            <a class="popup-image" href="https://masterbeautyproducts.rw/wp-content/uploads/2020/06/DSC_0352-copy-1.jpeg"><img src="https://masterbeautyproducts.rw/wp-content/uploads/2020/06/DSC_0352-copy-1.jpeg" alt=""></a>
+
+                        </div>
+
+                        <div class="project-text white-bg">
+
+                                                        <span>Cleaning</span>
+                            
+                            <h4><a href="https://masterbeautyproducts.rw/project/best-maid-cleaning/">Master Hand wash</a></h4>
+
+                        </div>
+
+                        <div class="project-button">
+
+                            <a href="https://masterbeautyproducts.rw/project/best-maid-cleaning/"><i class="far fa-long-arrow-right"></i></a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+                				
+                <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+
+                    <div class="project-wrapper project-02-wrapper pos-rel">
+
+                        <div class="project-img">
+
+                            <a class="popup-image" href="https://masterbeautyproducts.rw/wp-content/uploads/2020/06/DSC_0353-copy-1.jpeg"><img src="https://masterbeautyproducts.rw/wp-content/uploads/2020/06/DSC_0353-copy-1.jpeg" alt=""></a>
+
+                        </div>
+
+                        <div class="project-text white-bg">
+
+                                                        <span>Cleaning</span>
+                            
+                            <h4><a href="https://masterbeautyproducts.rw/project/cleaning-your-home-2/">Master Glass Cleaner and Hand wash</a></h4>
+
+                        </div>
+
+                        <div class="project-button">
+
+                            <a href="https://masterbeautyproducts.rw/project/cleaning-your-home-2/"><i class="far fa-long-arrow-right"></i></a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+                				
+                <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+
+                    <div class="project-wrapper project-02-wrapper pos-rel">
+
+                        <div class="project-img">
+
+                            <a class="popup-image" href="https://masterbeautyproducts.rw/wp-content/uploads/2020/06/DSC_0357-copy-1.jpeg"><img src="https://masterbeautyproducts.rw/wp-content/uploads/2020/06/DSC_0357-copy-1.jpeg" alt=""></a>
+
+                        </div>
+
+                        <div class="project-text white-bg">
+
+                                                        <span>Cleaning</span>
+                            
+                            <h4><a href="https://masterbeautyproducts.rw/project/best-maid-cleaning-2/">Master Flush</a></h4>
+
+                        </div>
+
+                        <div class="project-button">
+
+                            <a href="https://masterbeautyproducts.rw/project/best-maid-cleaning-2/"><i class="far fa-long-arrow-right"></i></a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+                				
+                <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+
+                    <div class="project-wrapper project-02-wrapper pos-rel">
+
+                        <div class="project-img">
+
+                            <a class="popup-image" href="https://masterbeautyproducts.rw/wp-content/uploads/2020/06/DSC_0328-copy-1.jpeg"><img src="https://masterbeautyproducts.rw/wp-content/uploads/2020/06/DSC_0328-copy-1.jpeg" alt=""></a>
+
+                        </div>
+
+                        <div class="project-text white-bg">
+
+                                                        <span>Cleaning</span>
+                            
+                            <h4><a href="https://masterbeautyproducts.rw/project/our-project-here/">Master breach</a></h4>
+
+                        </div>
+
+                        <div class="project-button">
+
+                            <a href="https://masterbeautyproducts.rw/project/our-project-here/"><i class="far fa-long-arrow-right"></i></a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+                
+
+                
+
+            </div>
+
+        </div>
+
+    </div>
+
+			</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-77e8579 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="77e8579" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ee15023" data-id="ee15023" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b49db5e elementor-align-center elementor-widget elementor-widget-bdevs-Counter" data-id="b49db5e" data-element_type="widget" data-widget_type="bdevs-Counter.default">
+				<div class="elementor-widget-container">
+			 
+<div class="counter-area pt-120 pb-90" data-background="">
+
+        <div class="container">
+
+            <div class="row">
+            	                <div class="col-xl-3 col-lg-3 col-md-6 mb-30">
+
+                    <div class="counter-wrapper text-center">
+                    	                        <div class="counter-icon">
+
+                            <i class="far fa-thumbs-up"></i>
+
+                        </div>
+                                                
+                        <div class="counter-text">
+                        	                            <h2><span class="counter">100</span><span class="plus-icon"></span></h2>
+                                                                                    <span>Our Clients</span>
+                                                    </div>
+                        
+                    </div>
+
+                </div>
+                                <div class="col-xl-3 col-lg-3 col-md-6 mb-30">
+
+                    <div class="counter-wrapper text-center">
+                    	                        <div class="counter-icon">
+
+                            <i class="far fa-briefcase"></i>
+
+                        </div>
+                                                
+                        <div class="counter-text">
+                        	                            <h2><span class="counter">32</span><span class="plus-icon">+</span></h2>
+                                                                                    <span>Customer Satisfaction</span>
+                                                    </div>
+                        
+                    </div>
+
+                </div>
+                                <div class="col-xl-3 col-lg-3 col-md-6 mb-30">
+
+                    <div class="counter-wrapper text-center">
+                    	                        <div class="counter-icon">
+
+                            <i class="far fa-smile"></i>
+
+                        </div>
+                                                
+                        <div class="counter-text">
+                        	                            <h2><span class="counter">972</span><span class="plus-icon">+</span></h2>
+                                                                                    <span>Happy Smiles</span>
+                                                    </div>
+                        
+                    </div>
+
+                </div>
+                                <div class="col-xl-3 col-lg-3 col-md-6 mb-30">
+
+                    <div class="counter-wrapper text-center">
+                    	                        <div class="counter-icon">
+
+                            <i class="far fa-file-alt"></i>
+
+                        </div>
+                                                
+                        <div class="counter-text">
+                        	                            <h2><span class="counter">1020</span><span class="plus-icon">+</span></h2>
+                                                                                    <span>Successfull Order</span>
+                                                    </div>
+                        
+                    </div>
+
+                </div>
+                                
+
+            </div>
+
+        </div>
+
+    </div>
+			</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		      
+  
+
+    <!-- hero-area start -->
+
+    
+</main>
+
+ 
+  <!-- footer-area-start -->
+      <footer>
+          <div class="footer-area pt-80 black-bg">
+              <div class="container">
+                  <div class="row">
+                     
+                    <div class="col-xl-6 col-lg-6 col-md-5">
+                                                     <div class="textwidget custom-html-widget"><div class="footer-icon mb-30">
+    <a href="#"><i class="fab fa-facebook-f"></i></a>
+    <a href="#"><i class="fab fa-twitter"></i></a>
+    <a href="#"><i class="fab fa-google-plus-g"></i></a>
+    <a href="#"><i class="fab fa-linkedin"></i></a>
+    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+</div></div>                                             </div>
+                    <div class="col-xl-6 col-lg-6 col-md-7">
+                        <div class="newsletters-wrapper ">
+                            <div class="newsletter-form">
+                                                                 			<div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f106-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f106-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="106" />
+<input type="hidden" name="_wpcf7_version" value="5.4.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f106-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<div >
+<div class="news-box">
+        <span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email" /></span><br />
+        <input type="submit" value="Subscribe" class="wpcf7-form-control wpcf7-submit c-btn" />
+    </div>
+</div>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
+</div>
+		                                                           </div>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="footer-middle-area pt-60 mt-30 pb-40">
+                      <div class="row">
+                          <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+                                <div class="footer-wrapper">
+                                    <div class="footer-logo">
+                                          <a href="https://masterbeautyproducts.rw/">
+                                                                                    <img src="https://masterbeautyproducts.rw/wp-content/uploads/2021/08/logo-white.png" alt="">
+                                          </a>
+                                    </div>
+                                                                             <div class="textwidget custom-html-widget"><div class="footer-text"><p>Cleaning Products Manufacturer in KIGALI here to Provide disinfectant, cleaner, detergent, etc. Best factory price and OEM&ODM service! Strong Factory Strength. Professional Team. 15 Years Of ex.</p>
+                                    </div></div>                                                                     </div>
+                          </div>
+                          <div class="col-xl-5 col-lg-5 col-md-6 mb-30">
+                                                                     <div class="textwidget custom-html-widget"><div class="footer-wrapper ml-125">
+    <h2 class="footer-title">Quick Links</h2>
+    <div class="footer-link">
+        <ul>
+            <li><a href="https://masterbeautyproducts.rw/about/">About us</a></li>
+            <li><a href="https://masterbeautyproducts.rw/team/">Our Team</a></li>
+            <li>
+							<a href="https://masterbeautyproducts.rw/projects/">Our Products</a></li>
+            <li><a href="https://masterbeautyproducts.rw/contact/">Contact Us</a></li>
+        </ul>
+    </div>
+</div></div>                                                           </div>
+                          <div class="col-xl-3 col-lg-3 col-md-6 mb-30">
+                                                                     <div class="textwidget custom-html-widget"><div class="footer-wrapper">
+    <h2 class="footer-title">Let’s Talk</h2>
+    <ul class="footer-info">
+        <li><span><i class="far fa-envelope"></i> info@masterbeautyproducts.rw</span></li>
+        <li><span><i class="fal fa-th"></i> +250 788 309 691</span></li>
+    </ul>
+</div></div>                                                           </div>
+                      </div>
+                  </div>
+                  <div class="footer-bottom-area pt-25 pb-25">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6 col-md-7">
+                            <div class="copyright">
+                                <p>                                                                 </p>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6 col-md-5">
+                                                         <div class="textwidget custom-html-widget"><div class="footer-bottom-link f-right">
+    <ul>
+        <li><a href="<?php echo esc_url(home_url('/')); ?>?page_id=52">Privacy </a></li>
+        <li><a href="<?php echo esc_url(home_url('/')); ?>?page_id=52"> Terms</a></li>
+        <li><a href="<?php echo esc_url(home_url('/')); ?>?page_id=52">Sitemap</a></li>
+        <li><a href="<?php echo esc_url(home_url('/')); ?>?page_id=52">Help </a></li>
+    </ul>
+</div></div>                                                   </div>
+                    </div>
+                </div>
+              </div>
+          </div>  
+      </footer>
+      <!-- footer-area-end -->
+      <link rel='stylesheet' id='elementor-post-62-css'  href='https://masterbeautyproducts.rw/wp-content/uploads/elementor/css/post-62.css?ver=1628838252' type='text/css' media='all' />
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/masterbeautyproducts.rw\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/vendor/modernizr-3.5.0.min.js?ver=5.8' id='modernizr-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/vendor/jquery-1.12.4.min.js?ver=5.8' id='jquery1-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/popper.min.js?ver=5.8' id='popper-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/bootstrap.min.js?ver=5.8' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/owl.carousel.min.js?ver=5.8' id='owl-carousel-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/isotope.pkgd.min.js?ver=5.8' id='isotope-pkgd-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/slick.min.js?ver=5.8' id='slick-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/metisMenu.min.js?ver=5.8' id='metisMenu-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/ajax-form.js?ver=5.8' id='brushup-ajax-form-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/wow.min.js?ver=5.8' id='wow-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/waypoints.min.js?ver=5.8' id='waypoints-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/jquery.appear.js?ver=5.8' id='jquery-appear-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/jquery.knob.js?ver=5.8' id='jquery-knob-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/jquery.counterup.min.js?ver=5.8' id='jquery-counterup-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/jquery.scrollUp.min.js?ver=5.8' id='jquery-scrollUp-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/imagesloaded.pkgd.min.js?ver=5.8' id='imagesloaded-pkgd-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/jquery.magnific-popup.min.js?ver=5.8' id='jquery-magnific-popup-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/plugins.js?ver=5.8' id='brushup-plugins-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/themes/masterbeauty/assets/js/main.js?ver=5.8' id='brushup-main-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-includes/js/wp-embed.min.js?ver=5.8' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/plugins/brushup-elementor/assets/js/bdevs-elementor.js?ver=1.0.0' id='bdevs-elementor-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.11' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.11' id='share-link-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.11","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/masterbeautyproducts.rw\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":62,"title":"Masterbeauty%20%E2%80%93%20Products%20%E2%80%93%20Just%20another%20WordPress%20site","excerpt":"","featuredImage":"https:\/\/masterbeautyproducts.rw\/wp-content\/uploads\/2020\/06\/DSC_0328-copy.jpeg"}};
+</script>
+<script type='text/javascript' src='https://masterbeautyproducts.rw/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.11' id='elementor-frontend-js'></script>
+  </body>
+</html>
+

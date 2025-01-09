@@ -27,7 +27,6 @@ public class Program {
         empo.add(new Emplyee(2,"Mike","Manzi","Rca","Instructor",1200));
         empo.add(new Emplyee(2,"Ben","Manzi","Rca","Instructor",1200));
 
-//Collections.sort(empo);
 
         for (Emplyee emp : empo){
             System.out.println(emp.toString());

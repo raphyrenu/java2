@@ -4,7 +4,6 @@ import java.io.*;
 import java.net.*;
 import java.sql.*;
 import java.sql.Connection;
-import java.time.*;
 import java.util.*;
 import java.util.regex.*;
 import org.jsoup.*;
@@ -12,12 +11,15 @@ import org.jsoup.nodes.*;
 import org.jsoup.select.*;
 
 public class WebsiteDownloader {
+    // Database connection details
     private static final String DB_URL = "jdbc:mysql://localhost:3306/downloader";
     private static final String DB_USER = "root";
     private static final String DB_PASSWORD = "";
 
-    private static final String URL_REGEX = "^(https?://)?([\\w.-]+)+(:\\d+)?(/.*)?$";
-    private static final Pattern URL_PATTERN = Pattern.compile(URL_REGEX);
+    private static final int MAX_RETRIES = 3;
+
+    // Regular expression for validating URLs
+    private static final Pattern URL_PATTERN = Pattern.compile("^(https?|http)://[a-zA-Z0-9-]+(\\\\.[a-zA-Z0-9-]+)*(\\\\.[a-zA-Z]{2,})(:[0-9]{1,5})?(/.*)?$");
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -31,164 +33,159 @@ public class WebsiteDownloader {
         }
 
         try (Connection connection = DriverManager.getConnection(DB_URL, DB_USER, DB_PASSWORD)) {
-            // Step 1: Extract domain name and create directory
+            // Extract domain name from URL
             String domainName = new URL(websiteUrl).getHost();
+            long startTime = System.currentTimeMillis();
+
+            // Initialize the website record in the database
+            int websiteId = insertWebsite(connection, domainName, startTime);
+
+            // Create a directory for storing the website files
             File websiteDir = new File(domainName);
             if (!websiteDir.exists()) websiteDir.mkdir();
 
             System.out.println("Starting download for: " + domainName);
-            long startTime = System.currentTimeMillis();
-
             long totalDownloadedBytes = 0;
 
-            // Step 2: Download the homepage
-            File homePage = new File(websiteDir, "index.html");
-            downloadFile(websiteUrl, homePage);
-            long homePageSize = homePage.length();
-            totalDownloadedBytes += homePageSize;
-            System.out.println("Downloaded homepage to " + homePage.getAbsolutePath() + " (" + homePageSize / 1024 + " KB)");
+            Queue<String> linksToVisit = new LinkedList<>();
+            Set<String> visitedLinks = new HashSet<>();
+            linksToVisit.add(websiteUrl);
+            visitedLinks.add(websiteUrl);
 
-            // Step 3: Extract external links using regular expressions
-            List<String> externalLinks = extractLinks(homePage);
-            saveWebsiteToDB(connection, domainName, startTime, System.currentTimeMillis(), 0, 0);
-
-            int websiteId = getWebsiteId(connection, domainName);
-
-            for (String link : externalLinks) {
-                System.out.println("Found link: " + link);
-                saveLinkToDB(connection, websiteId, link);
-            }
-
-            // Step 4: Download external links
-            for (String link : externalLinks) {
+            while (!linksToVisit.isEmpty()) {
+                String currentLink = linksToVisit.poll();
                 try {
-                    String fileName = generateUniqueFileName(link, websiteDir);
-                    File linkFile = new File(websiteDir, fileName);
+                    // Record start time for the link
                     long linkStartTime = System.currentTimeMillis();
-                    downloadFile(link, linkFile);
-                    long elapsed = System.currentTimeMillis() - linkStartTime;
-                    long fileSize = linkFile.length();
+
+                    // Download the link and save it to a file
+                    File file = downloadLink(currentLink, websiteDir);
+                    long fileSize = file.length();
                     totalDownloadedBytes += fileSize;
-                    updateLinkInDB(connection, websiteId, link, elapsed, fileSize / 1024);
-                    System.out.printf("Downloaded %s (%d KB in %d ms)\n", link, fileSize / 1024, elapsed);
+
+                    // Record end time and calculate elapsed time
+                    long linkEndTime = System.currentTimeMillis();
+                    long linkElapsedTime = linkEndTime - linkStartTime;
+
+                    System.out.printf("Downloaded: %s (%d KB, elapsed time: %d ms)%n", currentLink, fileSize / 1024, linkElapsedTime);
+
+                    // Insert the link record into the database
+                    insertLink(connection, websiteId, currentLink, fileSize, linkElapsedTime);
+
+                    // Extract additional links from the file
+                    Set<String> newLinks = extractLinks(file, websiteUrl);
+                    for (String link : newLinks) {
+                        if (!visitedLinks.contains(link)) {
+                            linksToVisit.add(link);
+                            visitedLinks.add(link);
+                        }
+                    }
                 } catch (Exception e) {
-                    System.out.println("Failed to download link: " + link);
+                    System.out.printf("Failed to process link: %s (%s)%n", currentLink, e.getMessage());
                 }
             }
 
-            long totalElapsed = System.currentTimeMillis() - startTime;
-            long totalDownloadedKilobytes = totalDownloadedBytes / 1024;
-            System.out.println("Download complete in " + totalElapsed + " ms, Total size: " + totalDownloadedKilobytes + " KB");
-            updateWebsiteInDB(connection, domainName, startTime, System.currentTimeMillis(), totalElapsed, totalDownloadedKilobytes);
+            // Update the website record in the database
+            long endTime = System.currentTimeMillis();
+            long elapsed = endTime - startTime;
+            updateWebsite(connection, websiteId, startTime, endTime, elapsed, totalDownloadedBytes);
 
+            System.out.printf("Download complete. Total size: %d KB, elapsed time: %d ms%n",
+                    totalDownloadedBytes / 1024, elapsed);
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
-    // Validate URL using regex
+    // Helper to validate URLs using regex pattern
     private static boolean isValidUrl(String url) {
-        return URL_PATTERN.matcher(url).matches();
+        Matcher matcher = URL_PATTERN.matcher(url);
+        return matcher.matches();
     }
 
-    private static void downloadFile(String url, File file) throws IOException {
-        URL website = new URL(url);
-        try (InputStream in = website.openStream();
-             FileOutputStream fos = new FileOutputStream(file)) {
-            byte[] buffer = new byte[1024];
-            int bytesRead;
-            while ((bytesRead = in.read(buffer)) != -1) {
-                fos.write(buffer, 0, bytesRead);
-            }
-        }
-        if (!file.exists() || file.length() == 0) {
-            throw new IOException("File download failed or file is empty for URL: " + url);
-        }
-    }
-
-    // Extract links using regex within HTML content
-    private static List<String> extractLinks(File file) throws IOException {
-        Document doc = Jsoup.parse(file, "UTF-8");
-        Elements links = doc.select("a[href]");
-        List<String> externalLinks = new ArrayList<>();
-        for (Element link : links) {
-            String href = link.attr("abs:href");
-            if (isValidUrl(href)) {
-                externalLinks.add(href);
-            }
-        }
-        return externalLinks;
-    }
-
-    private static String generateUniqueFileName(String url, File directory) throws MalformedURLException {
-        String path = new URL(url).getPath();
-        String fileName = path.isEmpty() || path.equals("/") ? "index.html" : path.substring(path.lastIndexOf('/') + 1);
-        File file = new File(directory, fileName);
-        int count = 1;
-        while (file.exists()) {
-            String baseName = fileName.contains(".") ? fileName.substring(0, fileName.lastIndexOf('.')) : fileName;
-            String extension = fileName.contains(".") ? fileName.substring(fileName.lastIndexOf('.')) : "";
-            fileName = baseName + "_" + count + extension;
-            file = new File(directory, fileName);
-            count++;
-        }
-        return fileName;
-    }
-
-    private static void saveWebsiteToDB(Connection conn, String name, long start, long end, long elapsed, long size) throws SQLException {
+    // Insert a new website into the database
+    private static int insertWebsite(Connection conn, String websiteName, long startTime) throws SQLException {
         String sql = "INSERT INTO websites (website_name, download_start_date_time, download_end_date_time, total_elapsed_time, total_downloaded_kilobytes) VALUES (?, ?, ?, ?, ?)";
-        try (PreparedStatement stmt = conn.prepareStatement(sql)) {
-            stmt.setString(1, name);
-            stmt.setTimestamp(2, new Timestamp(start));
-            stmt.setTimestamp(3, new Timestamp(end));
-            stmt.setLong(4, elapsed);
-            stmt.setLong(5, size);
+        try (PreparedStatement stmt = conn.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS)) {
+            stmt.setString(1, websiteName);
+            stmt.setTimestamp(2, new Timestamp(startTime));
+            stmt.setTimestamp(3, new Timestamp(startTime)); // Placeholder, updated later
+            stmt.setLong(4, 0); // Placeholder, updated later
+            stmt.setLong(5, 0); // Placeholder, updated later
             stmt.executeUpdate();
+
+            ResultSet keys = stmt.getGeneratedKeys();
+            if (keys.next()) {
+                return keys.getInt(1);
+            } else {
+                throw new SQLException("Failed to insert website record.");
+            }
         }
     }
 
-    private static void saveLinkToDB(Connection conn, int websiteId, String link) throws SQLException {
-        String sql = "INSERT INTO links (link_name, website_id) VALUES (?, ?)";
+    // Insert a link into the database
+    private static void insertLink(Connection conn, int websiteId, String link, long size, long elapsedTime) throws SQLException {
+        String sql = "INSERT INTO links (link_name, website_id, total_elapsed_time, total_downloaded_kilobytes) VALUES (?, ?, ?, ?)";
         try (PreparedStatement stmt = conn.prepareStatement(sql)) {
             stmt.setString(1, link);
             stmt.setInt(2, websiteId);
+            stmt.setLong(3, elapsedTime); // Store elapsed time
+            stmt.setLong(4, size / 1024); // Convert bytes to kilobytes
             stmt.executeUpdate();
         }
     }
 
-    private static void updateLinkInDB(Connection conn, int websiteId, String link, long elapsed, long size) throws SQLException {
-        String sql = "UPDATE links SET total_elapsed_time = ?, total_downloaded_kilobytes = ? WHERE link_name = ? AND website_id = ?";
+    // Update website details after download is complete
+    private static void updateWebsite(Connection conn, int websiteId, long startTime, long endTime, long elapsed, long size) throws SQLException {
+        String sql = "UPDATE websites SET download_end_date_time = ?, total_elapsed_time = ?, total_downloaded_kilobytes = ? WHERE id = ?";
         try (PreparedStatement stmt = conn.prepareStatement(sql)) {
-            stmt.setLong(1, elapsed);
-            stmt.setLong(2, size);
-            stmt.setString(3, link);
+            stmt.setTimestamp(1, new Timestamp(endTime));
+            stmt.setLong(2, elapsed);
+            stmt.setLong(3, size / 1024); // Convert bytes to kilobytes
             stmt.setInt(4, websiteId);
             stmt.executeUpdate();
         }
     }
 
-    private static void updateWebsiteInDB(Connection conn, String name, long start, long end, long elapsed, long totalSize) throws SQLException {
-        String sql = "UPDATE websites SET download_start_date_time = ?, download_end_date_time = ?, total_elapsed_time = ?, total_downloaded_kilobytes = ? WHERE website_name = ?";
-        try (PreparedStatement stmt = conn.prepareStatement(sql)) {
-            stmt.setTimestamp(1, new Timestamp(start));
-            stmt.setTimestamp(2, new Timestamp(end));
-            stmt.setLong(3, elapsed);
-            stmt.setLong(4, totalSize);
-            stmt.setString(5, name);
-            stmt.executeUpdate();
-        }
-    }
-
-    private static int getWebsiteId(Connection conn, String name) throws SQLException {
-        String sql = "SELECT id FROM websites WHERE website_name = ?";
-        try (PreparedStatement stmt = conn.prepareStatement(sql)) {
-            stmt.setString(1, name);
-            ResultSet rs = stmt.executeQuery();
-            if (rs.next()) {
-                return rs.getInt("id");
-            } else {
-                throw new SQLException("Website not found in database.");
+    // Download a link and save it to a file
+    private static File downloadLink(String url, File directory) throws IOException {
+        String fileName = sanitizeFileName(url);
+        File file = new File(directory, fileName + ".html");
+        for (int i = 0; i < MAX_RETRIES; i++) {
+            try (InputStream in = new URL(url).openStream(); FileOutputStream fos = new FileOutputStream(file)) {
+                byte[] buffer = new byte[1024];
+                int bytesRead;
+                while ((bytesRead = in.read(buffer)) != -1) {
+                    fos.write(buffer, 0, bytesRead);
+                }
+                return file;
+            } catch (IOException e) {
+                System.out.printf("Retrying (%d/%d) for: %s%n", i + 1, MAX_RETRIES, url);
             }
         }
+        throw new IOException("Failed to download: " + url);
+    }
+
+    // Extract links from a downloaded file
+    private static Set<String> extractLinks(File file, String baseUrl) throws IOException {
+        Document doc = Jsoup.parse(file, "UTF-8", baseUrl);
+        Set<String> links = new HashSet<>();
+        for (Element link : doc.select("a[href]")) {
+            String href = link.absUrl("href");
+            if (href.startsWith(baseUrl)) {
+                links.add(href);
+            }
+        }
+        return links;
+    }
+
+
+    private static String sanitizeFileName(String url) {
+        String sanitized = url.replaceAll("[^a-zA-Z0-9.-]", "_");
+        Matcher matcher = Pattern.compile("^(.*?)([?#].*)?$").matcher(sanitized);
+        if (matcher.matches()) {
+            return matcher.group(1);  // Return the main part before any query string or fragment
+        }
+        return sanitized;  // Return sanitized name if no match
     }
 }

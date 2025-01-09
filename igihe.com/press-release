@@ -1,0 +1,1543 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'html' -->
+<!-- FILE NAME SUGGESTIONS:
+   * html--press-release.html.twig
+   x html.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/html.html.twig' -->
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+  <head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MDQ495V7');</script>
+<!-- End Google Tag Manager -->
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/default/files/favicon-16x16.png" type="image/png" />
+
+    <title>press-release |  Mastercard Foundation Fund for Resilience and Prosperity</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="press-release |  Mastercard Foundation Fund for Resilience and Prosperity  is a 7-year, US$ 126 million that aims to support Small and Medium sized Enterprises (SMEs) across 3 sectors in Sub Saharan Africa." />
+    <meta name="keywords" content="SMEs,Sub-Saharan Africa,Agribusiness, Digital economy,Climate Adaptation,Young Women,Dignified work,Resilience,Mastercard Foundation,Fund for Resilience and Prosperity,Job creation,resilience for young women,resilience for youth ,resilience for people with disabilities,resilience for vulnerable communities,Agriculture ,Climate Adaptation , Digital Economy,Gender" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?snliyr" />
+<link rel="stylesheet" media="all" href="/themes/custom/FRP/css/nav.css?snliyr" />
+<link rel="stylesheet" media="all" href="/themes/custom/FRP/css/aos.css?snliyr" />
+<link rel="stylesheet" media="all" href="/themes/custom/FRP/css/owl.carousel.css?snliyr" />
+<link rel="stylesheet" media="all" href="/themes/custom/FRP/css/bootstrap.min.css?snliyr" />
+<link rel="stylesheet" media="all" href="/themes/custom/FRP/css/styles.css?snliyr" />
+<link rel="stylesheet" media="all" href="/themes/custom/FRP/css/dev.css?snliyr" />
+
+    
+       
+  </head>
+  
+<body class="path-press-release">
+
+   <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDQ495V7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'off_canvas_page_wrapper' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page' -->
+<!-- FILE NAME SUGGESTIONS:
+   * page--press-release.html.twig
+   x page.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/page.html.twig' -->
+  <header class="header">
+
+
+
+      <div class="header__inner">
+
+
+
+          <div class="header__primary">
+
+
+
+              <div class="header__branding">
+
+
+
+                                             <a class="logo-link" href="https://frp.org/">
+     
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--site-logo.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/region.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--frp-sitelogo.html.twig
+   * block--block-content--8759d437-18d9-4f94-a7ef-0c83d0eef4b1.html.twig
+   * block--block-content.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/block.html.twig' -->
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--basic.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--basic.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/field.html.twig' -->
+
+            <img class="logo__image" src="https://frp.org/sites/default/files/inline-images/frp-logo.png" alt="Mastercard Foundation Africa Growth Fund Homepage" />
+      
+<!-- END OUTPUT from 'themes/custom/FRP/templates/field.html.twig' -->
+
+
+  
+<!-- END OUTPUT from 'themes/custom/FRP/templates/block.html.twig' -->
+
+
+<!-- END OUTPUT from 'themes/custom/FRP/templates/region.html.twig' -->
+
+
+    </a>
+  
+
+
+
+
+
+
+              </div>
+
+
+
+
+
+
+
+              <div class="header__right">
+
+
+
+                  <div class="social">
+
+
+
+                      <ul class="social__links">
+
+
+                              <li><a href="https://www.linkedin.com/company/the-mastercard-foundation-fund-for-resilience-and-prosperity/"
+                                      target="_blank"><i class="fab fa-linkedin"></i></a> </li>
+                                      
+                              <li><a href="https://web.facebook.com/FRP.prosperity/" target="_blank"><i
+                                          class="fab fa-facebook"></i></a> </li>
+
+                              <li><a href="https://twitter.com/FRP_prosperity" target="_blank">
+                                      <!-- <i class="fa fa-twitter"></i> -->
+                                      <i class="fa-brands fa-x-twitter"></i>
+                                      
+                              <li><a href="https://youtube.com/@fundforresilienceandprosperity?si=aqiqbtSythM7PcQn" target="_blank"><i
+                                          class="fab fa-youtube"></i></a> </li>
+                                      
+                              <li><a href="https://www.instagram.com/frp.prosperity/" target="_blank"><i
+                                          class="fab fa-instagram"></i></a> </li>
+
+                                  </a>
+                              </li>
+
+
+
+                      </ul>
+
+
+
+                  </div>
+
+
+
+
+
+                  <div class="header__menu">
+
+
+
+
+
+                      <nav class="main-menu">
+
+
+
+                          <div id="main-nav" class="main-nav">
+
+
+
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__main' -->
+<!-- FILE NAME SUGGESTIONS:
+   x menu--main.html.twig
+   x menu--main.html.twig
+   * menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/navigation/menu--main.html.twig' -->
+
+        <ul class="main-menu">
+                                                            <li class="main-menu__item">
+                <div class="main-menu__item__wrapper">
+<a href="/" class="main-menu__link" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+
+                                         </div>
+                </li>
+                                            <li class="main-menu__item">
+                <div class="main-menu__item__wrapper">
+<a href="/about-us" class="main-menu__link" title=" About Us" data-drupal-link-system-path="about-us"> About Us</a>
+
+                                         </div>
+                </li>
+                                            <li class="main-menu__item">
+                <div class="main-menu__item__wrapper">
+<a href="/challenge-fund" class="main-menu__link" data-drupal-link-system-path="node/317">Challenge Fund</a>
+
+                                         </div>
+                </li>
+                                            <li class="main-menu__item">
+                <div class="main-menu__item__wrapper">
+<a href="/news-and-events" class="main-menu__link" title="News &amp; Media" data-drupal-link-system-path="news-and-events">News &amp; Events</a>
+
+                                         </div>
+                </li>
+                                </ul>
+        
+
+
+<!-- END OUTPUT from 'themes/custom/FRP/templates/navigation/menu--main.html.twig' -->
+
+
+
+
+
+
+
+
+
+                              <div class="search">
+
+
+
+                                  <form class="search-widget" action="https://africagrowthfund.org/search">
+
+
+
+                                      <label class="visually-hidden" for=header-search-input--mobile>Search the
+
+
+
+                                          website</label>
+
+
+
+                                      <input name="keywords" class="search-widget__input"
+
+                                          id=header-search-input--mobile type="text" placeholder=Search />
+
+
+
+                                      <button class="search-widget__button" type="submit" aria-label=Search>
+
+
+
+
+
+
+
+                                          <svg class="icon">
+
+
+
+                                              <use
+
+                                                  xlink:href="themes/custom/jumpstart/dist/icons.svg#magnifying-glass">
+
+
+
+                                              </use>
+
+
+
+                                          </svg>
+
+
+
+                                      </button>
+
+
+
+                                  </form>
+
+
+
+                              </div>
+
+
+
+
+
+
+
+
+
+
+
+                              <div class="language-switcher-language-url">
+
+                        
+
+                                  <div hreflang="en" data-drupal-link-system-path="node/311" class="is-active">
+  <a href="#" onclick="doGTranslate('ru|en');return false;" title="English" class="gflag nturl"
+ style="background-position:-0px -0px;">
+  <img src="/themes/custom/FRP/images/Eng.png" height="16" width="16" alt="English"/>
+ </a>
+<a href="#" onclick="doGTranslate('ru|fr');return false;" title="French" class="language-link gflag nturl"
+ style="background-position:-100px -400px;">
+  <img src="/themes/custom/FRP/images/fr.png" height="16" width="16" alt="Fr"/>
+ </a>
+
+ <a href="#" onclick="doGTranslate('ru|pt');return false;" title="Portugal" class="language-link gflag nturl"
+ style="background-position:-100px -400px;">
+  <img src="/themes/custom/FRP/images/po.png" height="16" width="16" alt="Fr"/>
+ </a>
+
+
+
+                                  </div> 
+
+
+
+                                  <!-- <div hreflang="fr" data-drupal-link-system-path="node/311"><a href="fr.html"
+
+
+
+                                          class="language-link" hreflang="fr"
+
+
+
+                                          data-drupal-link-system-path="node/311">Fr</a></div> -->
+
+
+
+                              </div>
+
+
+
+                          </div>
+
+
+
+
+
+
+
+                          <a id="menu" onclick="toggleMenu()" class="toggle-expand">
+
+
+
+                              <span class="toggle-expand__open">
+
+
+<i class="fa fa-bars" aria-hidden="true" class="toggle-expand__icon"></i>
+
+
+
+
+
+
+                              </span>
+
+
+
+                              <span class="toggle-expand__close">
+
+                          </a>
+
+
+
+                      </nav>
+
+
+
+
+
+
+<div class="search"  role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+
+<div class="search-widget">
+
+ Search
+
+</div>
+
+                      </div>                       
+                      
+                      
+                      
+<!-- Modal -->
+<div class="dropdown-menu drop-search" aria-labelledby="dropdownMenuLink" style="">
+
+     
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--search-form.html.twig
+   * region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/region--search_form.html.twig' -->
+ 
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--frp-search.html.twig
+   * block--search-form-block.html.twig
+   * block--search.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/block.html.twig' -->
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/form.html.twig' -->
+<form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/form-element.html.twig' -->
+<div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element_label' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/form-element-label.html.twig' -->
+<label for="edit-keys" class="visually-hidden">Search</label>
+<!-- END OUTPUT from 'core/modules/system/templates/form-element-label.html.twig' -->
+
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__search' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--search.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/input.html.twig' -->
+<input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+<!-- END OUTPUT from 'core/modules/system/templates/input.html.twig' -->
+
+
+        </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/form-element.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__submit' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--submit.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/input.html.twig' -->
+<input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+
+<!-- END OUTPUT from 'core/modules/system/templates/input.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+
+
+</form>
+
+<!-- END OUTPUT from 'core/modules/system/templates/form.html.twig' -->
+
+
+  
+<!-- END OUTPUT from 'themes/custom/FRP/templates/block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/custom/FRP/templates/region--search_form.html.twig' -->
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+                  </div>
+
+
+
+                  <div class="header__language_switcher">
+
+
+
+                      <div class="language-switcher-language-url">
+
+
+
+                          <div hreflang="en" data-drupal-link-system-path="node/311" class="is-active">
+  <a href="#" onclick="doGTranslate('ru|en');return false;" title="English" class="gflag nturl"
+ style="background-position:-0px -0px;">
+  <img src="/themes/custom/FRP/images/Eng.png" height="16" width="16" alt="English"/>
+ </a>
+<a href="#" onclick="doGTranslate('ru|fr');return false;" title="French" class="language-link gflag nturl"
+ style="background-position:-100px -400px;">
+  <img src="/themes/custom/FRP/images/fr.png" height="16" width="16" alt="Fr"/>
+ </a>
+
+ <a href="#" onclick="doGTranslate('ru|pt');return false;" title="Portugal" class="language-link gflag nturl"
+ style="background-position:-100px -400px;">
+  <img src="/themes/custom/FRP/images/po.png" height="16" width="16" alt="Fr"/>
+ </a>
+                                  
+                                  
+                                  </div> 
+
+                    
+
+                          <!-- <div hreflang="fr" data-drupal-link-system-path="node/311"><a href="fr.html"
+
+
+
+                                  class="language-link" hreflang="fr" data-drupal-link-system-path="node/311">Fr</a>
+
+
+
+                          </div> -->
+
+
+
+                      </div>
+
+
+
+                  </div>
+
+
+
+
+
+              </div>
+
+
+
+          </div>
+
+
+
+
+
+      </div>
+
+
+
+      </div>
+
+
+
+  </header>
+
+
+
+
+
+
+
+  <div class="innbanner">
+
+    
+
+  </div>
+
+
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   x region--content.html.twig
+   * region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/region--content.html.twig' -->
+
+
+<div class="row">
+
+            <div class="col-md-12">
+            
+
+<div data-drupal-messages-fallback class="hidden"></div>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--frp-content.html.twig
+   * block--system-main-block.html.twig
+   * block--system.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/block.html.twig' -->
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+<div class="views-element-container">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view' -->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/views-view.html.twig' -->
+ 
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_unformatted' -->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/views-view-unformatted.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+<!-- END OUTPUT from 'themes/custom/FRP/templates/views-view-unformatted.html.twig' -->
+
+
+    
+<!-- END OUTPUT from 'themes/custom/FRP/templates/views-view.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+
+
+  
+<!-- END OUTPUT from 'themes/custom/FRP/templates/block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--frp-views-block--press-release-news-and-events.html.twig
+   * block--views-block--press-release-news-and-events.html.twig
+   * block--views-block.html.twig
+   * block--views.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/block.html.twig' -->
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+<div>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view__news_and_events' -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view--news-and-events.html.twig
+   x views-view--news-and-events.html.twig
+   * views-view.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/events/views-view--news-and-events.html.twig' -->
+<div class="container newstitle">
+        <div class="row">
+            <div class="col-md-8 offset-md-2">
+ <h2>Press Release</h2>
+            </div>
+        </div>
+    </div>
+
+
+<div class="container news">
+        <div class="row">
+            <div class="col-md-8 offset-md-2">
+              
+
+
+    <div class="thumbnailcarousel owl-carousel">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_unformatted' -->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/views-view-unformatted.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_fields' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<div class="newscap">
+        <img src="/sites/default/files/2024-04/use.jpg " width="413" height="228">
+        <div class="desc">
+            <h3>The Mastercard Foundation Fund for Resilience and Prosperity’s newly established Agribusiness Challenge Fund calls for proposals from African SMEs and entrepreneurs in the agricultural sector.</h3><br>
+            <a href="/PressRelease/English-agribusiness-challenge-fund ">Read More <i class="fa fa-arrow-right"></i> </a>
+        </div>
+    </div>
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-fields.html.twig' -->
+
+
+<!-- END OUTPUT from 'themes/custom/FRP/templates/views-view-unformatted.html.twig' -->
+
+
+    </div>
+                   
+
+           
+            </div>
+        </div>
+    </div>
+<!-- END OUTPUT from 'themes/custom/FRP/templates/events/views-view--news-and-events.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/container.html.twig' -->
+
+
+  
+<!-- END OUTPUT from 'themes/custom/FRP/templates/block.html.twig' -->
+
+
+
+
+              </div>
+                </div>
+                 
+<!-- END OUTPUT from 'themes/custom/FRP/templates/region--content.html.twig' -->
+
+
+
+
+    
+ 
+
+  <div class="footer">
+
+      <div class="container-fluid">
+
+          <div class="row">
+
+              <div class="col-md-5 ">
+                  <a href="#">
+                  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--logo-footer.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/region.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--frp-footerlogo.html.twig
+   * block--block-content--9b764462-afa0-4e22-8387-06c48221381e.html.twig
+   * block--block-content.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/block.html.twig' -->
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--basic.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--basic.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/field.html.twig' -->
+
+            <img data-entity-uuid="2578e507-f19b-4511-87b6-4ae81c413532" data-entity-type="file" src="/sites/default/files/inline-images/footlogo.png" alt="Image removed." title="This image has been removed. For security reasons, only images from the local domain are allowed." height="16" width="16" class="filter-image-invalid" loading="lazy" />
+      
+<!-- END OUTPUT from 'themes/custom/FRP/templates/field.html.twig' -->
+
+
+  
+<!-- END OUTPUT from 'themes/custom/FRP/templates/block.html.twig' -->
+
+
+<!-- END OUTPUT from 'themes/custom/FRP/templates/region.html.twig' -->
+
+
+                  </a>
+              </div>
+
+
+
+              <div class="col-md-7 ">
+
+                  <br><br>
+
+                  <div class="quick">
+
+                      <div class="inquick">
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--footer-links.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/region.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--frp-footerlinks.html.twig
+   * block--block-content--1e57caad-8aaa-4df0-a52a-ef8a7da0a830.html.twig
+   * block--block-content.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/block.html.twig' -->
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--basic.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--basic.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/FRP/templates/field.html.twig' -->
+
+            <ul><li><a href="https://frp.org/about-us#partners">Partners</a></li><li><a href="https://www.frp.org/1.0" target="_blank"><span class="notranslate">Fund for Rural Prosperity </span></a></li><li><a href="https://frp.org/press-release">Press Release</a></li><li><a href="https://frp.org/sites/default/files/2024-08/General-Fund-FAQ.pdf" target="_blank">FAQs</a></li></ul>
+      
+<!-- END OUTPUT from 'themes/custom/FRP/templates/field.html.twig' -->
+
+
+  
+<!-- END OUTPUT from 'themes/custom/FRP/templates/block.html.twig' -->
+
+
+<!-- END OUTPUT from 'themes/custom/FRP/templates/region.html.twig' -->
+
+
+
+
+
+
+
+                      </div>
+
+                      <div class="inquick">
+                                                            <h4>Contact Us</h4> 
+                                                            
+                                                            <a  data-bs-toggle="modal" data-bs-target="#formodal" style="cursor:pointer;" >Get in touch</a>
+
+
+                              <div class="modal fade" id="formodal" tabindex="-1" aria-labelledby="formodalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+
+      <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+
+      <div class="modal-body">
+        <p>Thank you for your interest in the Mastercard Foundation Fund for Resilience and Prosperity. Tell us more
+          about yourself so we can see how best to engage on our journey to create work opportunities for young women and men in Sub-Saharan Africa.</p>
+
+<div id="mc_embed_shell">
+	<link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
+	<div id="mc_embed_signup">
+		<form class="validate"
+			action="https://frp.us16.list-manage.com/subscribe/post?u=5ce69d92299cbd43315eb1910&amp;id=9c7890a1a5&amp;f_id=00c96de0f0"
+			method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank"
+			novalidate="novalidate">
+              <div id="mc_embed_signup_scroll">
+                <div class="row">
+        <div class="col-md-6 col-sm-5">
+                <div class="mc-field-group"><label for="mce-MMERGE5">First Name <span
+                      class="asterisk">*</span></label><input class="required text mce_inline_error" type="text" name="MMERGE5" id="mce-MMERGE5" value=""
+						required="" aria-required="true" aria-invalid="true"></div>
+        </div>
+        <div class="col-md-6 col-sm-5">
+                <div class="mc-field-group"><label for="mce-MMERGE12">Last Name <span
+                      class="asterisk">*</span></label><input class="required text" type="text" name="MMERGE12" id="mce-MMERGE12" value="" required=""
+						aria-required="true"></div>
+        </div>
+        <div class="col-md-6 col-sm-5">
+                <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span
+                      class="asterisk">*</span></label> <input class="required email" type="email" name="EMAIL" id="mce-EMAIL" required="" value=""
+						aria-required="true"></div>
+        </div>
+        <div class="col-md-6 col-sm-5">
+                <div class="mc-field-group"><label for="mce-MMERGE1">Occupation <span
+                      class="asterisk">*</span></label> <input class="required text" type="text" name="MMERGE1" id="mce-MMERGE1" value="" required=""
+						aria-required="true"></div>
+        </div>
+        <div class="col-md-6 col-sm-5">
+                <div class="mc-field-group"><label for="mce-MMERGE3">Phone </label><input class="number valid"
+						type="number" name="MMERGE3" id="mce-MMERGE3" value="" aria-invalid="false">
+                </div>
+        </div>
+        <div class="col-md-6 col-sm-5">
+        <div class="mc-field-group"><label for="mce-MMERGE4">Country <span
+							class="asterisk">*</span></label><select class="required" name="MMERGE4" id="mce-MMERGE4"
+						aria-required="true">
+						<option value=""></option>
+						<option value="Kenya">Kenya</option>
+						<option value="Aaland Islands">Aaland Islands</option>
+						<option value="Afghanistan">Afghanistan</option>
+						<option value="Albania">Albania</option>
+						<option value="Algeria">Algeria</option>
+						<option value="American Samoa">American Samoa</option>
+						<option value="Andorra">Andorra</option>
+						<option value="Angola">Angola</option>
+						<option value="Anguilla">Anguilla</option>
+						<option value="Antarctica">Antarctica</option>
+						<option value="Antigua And Barbuda">Antigua And Barbuda</option>
+						<option value="Argentina">Argentina</option>
+						<option value="Armenia">Armenia</option>
+						<option value="Aruba">Aruba</option>
+						<option value="Australia">Australia</option>
+						<option value="Austria">Austria</option>
+						<option value="Azerbaijan">Azerbaijan</option>
+						<option value="Bahamas">Bahamas</option>
+						<option value="Bahrain">Bahrain</option>
+						<option value="Bangladesh">Bangladesh</option>
+						<option value="Barbados">Barbados</option>
+						<option value="Belarus">Belarus</option>
+						<option value="Belgium">Belgium</option>
+						<option value="Belize">Belize</option>
+						<option value="Benin">Benin</option>
+						<option value="Bermuda">Bermuda</option>
+						<option value="Bhutan">Bhutan</option>
+						<option value="Bolivia">Bolivia</option>
+						<option value="Belize">Belize</option>
+						<option value="Bonaire, Saint Eustatius and Saba">Bonaire, Saint Eustatius and Saba</option>
+						<option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+						<option value="Botswana">Botswana</option>
+						<option value="Bouvet Island">Bouvet Island</option>
+						<option value="Brazil">Brazil</option>
+						<option value="British Indian Ocean Territory">British Indian Ocean Territory</option>
+						<option value="Brunei Darussalam">Brunei Darussalam</option>
+						<option value="Bulgaria">Bulgaria</option>
+						<option value="Burkina Faso">Burkina Faso</option>
+						<option value="Burundi">Burundi</option>
+						<option value="Cambodia">Cambodia</option>
+						<option value="Cameroon">Cameroon</option>
+						<option value="Canada">Canada</option>
+						<option value="Cape Verde">Cape Verde</option>
+						<option value="Cayman Islands">Cayman Islands</option>
+						<option value="Central African Republic">Central African Republic</option>
+						<option value="Chad">Chad</option>
+						<option value="Chile">Chile</option>
+						<option value="China">China</option>
+						<option value="Christmas Island">Christmas Island</option>
+						<option value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option>
+						<option value="Colombia">Colombia</option>
+						<option value="Comoros">Comoros</option>
+						<option value="Congo">Congo</option>
+						<option value="Congo, Democratic Republic of the">Congo, Democratic Republic of the</option>
+						<option value="Cook Islands">Cook Islands</option>
+						<option value="Costa Rica">Costa Rica</option>
+						<option value="Cote D'Ivoire">Cote D'Ivoire</option>
+						<option value="Croatia">Croatia</option>
+						<option value="Cuba">Cuba</option>
+						<option value="Curacao">Curacao</option>
+						<option value="Cyprus">Cyprus</option>
+						<option value="Czech Republic">Czech Republic</option>
+						<option value="Denmark">Denmark</option>
+						<option value="Djibouti">Djibouti</option>
+						<option value="Dominica">Dominica</option>
+						<option value="Dominican Republic">Dominican Republic</option>
+						<option value="Ecuador">Ecuador</option>
+						<option value="Egypt">Egypt</option>
+						<option value="El Salvador">El Salvador</option>
+						<option value="Equatorial Guinea">Equatorial Guinea</option>
+						<option value="Eritrea">Eritrea</option>
+						<option value="Estonia">Estonia</option>
+						<option value="Ethiopia">Ethiopia</option>
+						<option value="Falkland Islands">Falkland Islands</option>
+						<option value="Faroe Islands">Faroe Islands</option>
+						<option value="Fiji">Fiji</option>
+						<option value="Finland">Finland</option>
+						<option value="France">France</option>
+						<option value="French Guiana">French Guiana</option>
+						<option value="French Polynesia">French Polynesia</option>
+						<option value="French Southern Territories">French Southern Territories</option>
+						<option value="Gabon">Gabon</option>
+						<option value="Gambia">Gambia</option>
+						<option value="Germany">Germany</option>
+						<option value="Gambia">Gambia</option>
+						<option value="Georgia">Georgia</option>
+						<option value="Germany">Germany</option>
+						<option value="Ghana">Ghana</option>
+						<option value="Gibraltar">Gibraltar</option>
+						<option value="Greece">Greece</option>
+						<option value="Greenland">Greenland</option>
+						<option value="Grenada">Grenada</option>
+						<option value="Guadeloupe">Guadeloupe</option>
+						<option value="Guam">Guam</option>
+						<option value="Guatemala">Guatemala</option>
+						<option value="Guernsey">Guernsey</option>
+						<option value="Guinea">Guinea</option>
+						<option value="Guinea-Bissau">Guinea-Bissau</option>
+						<option value="Guyana">Guyana</option>
+						<option value="Haiti">Haiti</option>
+						<option value="Heard and Mc Donald Islands">Heard and Mc Donald Islands</option>
+						<option value="Honduras">Honduras</option>
+						<option value="Hong Kong">Hong Kong</option>
+						<option value="Hungary">Hungary</option>
+						<option value="Iceland">Iceland</option>
+						<option value="India">India</option>
+						<option value="Indonesia">Indonesia</option>
+						<option value="Iran">Iran</option>
+						<option value="Iraq">Iraq</option>
+						<option value="Ireland">Ireland</option>
+						<option value="Isle of Man">Isle of Man</option>
+						<option value="Israel">Israel</option>
+						<option value="Italy">Italy</option>
+						<option value="Jamaica">Jamaica</option>
+						<option value="Japan">Japan</option>
+						<option value="Jersey  (Channel Islands)">Jersey (Channel Islands)</option>
+						<option value="Jordan">Jordan</option>
+						<option value="Kazakhstan">Kazakhstan</option>
+						<option value="Kenya">Kenya</option>
+						<option value="Kiribati">Kiribati</option>
+						<option value="Kuwait">Kuwait</option>
+						<option value="Kyrgyzstan">Kyrgyzstan</option>
+						<option value="Lao People's Democratic Republic">Lao People's Democratic Republic</option>
+						<option value="Latvia">Latvia</option>
+						<option value="Lebanon">Lebanon</option>
+						<option value="Lesotho">Lesotho</option>
+						<option value="Liberia">Liberia</option>
+						<option value="Libya">Libya</option>
+						<option value="Liechtenstein">Liechtenstein</option>
+						<option value="Lithuania">Lithuania</option>
+						<option value="Luxembourg">Luxembourg</option>
+						<option value="Macau">Macau</option>
+						<option value="Macedonia">Macedonia</option>
+						<option value="Madagascar">Madagascar</option>
+						<option value="Malawi">Malawi</option>
+						<option value="Malaysia">Malaysia</option>
+						<option value="Maldives">Maldives</option>
+						<option value="Mali">Mali</option>
+						<option value="Malta">Malta</option>
+						<option value="Marshall Islands">Marshall Islands</option>
+						<option value="Martinique">Martinique</option>
+						<option value="Mauritania">Mauritania</option>
+						<option value="Mauritius">Mauritius</option>
+						<option value="Mayotte">Mayotte</option>
+						<option value="Mexico">Mexico</option>
+						<option value="Micronesia, Federated States of">Micronesia, Federated States of</option>
+						<option value="Moldova, Republic of">Moldova, Republic of</option>
+						<option value="Monaco">Monaco</option>
+						<option value="Mongolia">Mongolia</option>
+						<option value="Montenegro">Montenegro</option>
+						<option value="Montserrat">Montserrat</option>
+						<option value="Morocco">Morocco</option>
+						<option value="Mozambique">Mozambique</option>
+						<option value="Myanmar">Myanmar</option>
+						<option value="Namibia">Namibia</option>
+						<option value="Nauru">Nauru</option>
+						<option value="Nepal">Nepal</option>
+						<option value="Netherlands">Netherlands</option>
+						<option value="Netherlands Antilles">Netherlands Antilles</option>
+						<option value="New Caledonia">New Caledonia</option>
+						<option value="New Zealand">New Zealand</option>
+						<option value="Nicaragua">Nicaragua</option>
+						<option value="Niger">Niger</option>
+						<option value="Nigeria">Nigeria</option>
+						<option value="Niue">Niue</option>
+						<option value="Norfolk Island">Norfolk Island</option>
+						<option value="North Korea">North Korea</option>
+						<option value="Northern Mariana Islands">Northern Mariana Islands</option>
+						<option value="Norway">Norway</option>
+						<option value="Oman">Oman</option>
+						<option value="Pakistan">Pakistan</option>
+						<option value="Palau">Palau</option>
+						<option value="Palestine">Palestine</option>
+						<option value="Panama">Panama</option>
+						<option value="Papua New Guinea">Papua New Guinea</option>
+						<option value="Paraguay">Paraguay</option>
+						<option value="Peru">Peru</option>
+						<option value="Philippines">Philippines</option>
+						<option value="Pitcairn">Pitcairn</option>
+						<option value="Poland">Poland</option>
+						<option value="Portugal">Portugal</option>
+						<option value="Puerto Rico">Puerto Rico</option>
+						<option value="Qatar">Qatar</option>
+						<option value="Republic of Kosovo">Republic of Kosovo</option>
+						<option value="Reunion">Reunion</option>
+						<option value="Romania">Romania</option>
+						<option value="Russia">Russia</option>
+						<option value="Rwanda">Rwanda</option>
+						<option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option>
+						<option value="Saint Lucia">Saint Lucia</option>
+						<option value="Saint Martin">Saint Martin</option>
+						<option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option>
+						<option value="Samoa (Independent)">Samoa (Independent)</option>
+						<option value="San Marino">San Marino</option>
+						<option value="Sao Tome and Principe">Sao Tome and Principe</option>
+						<option value="Saudi Arabia">Saudi Arabia</option>
+						<option value="Senegal">Senegal</option>
+						<option value="Serbia">Serbia</option>
+						<option value="Seychelles">Seychelles</option>
+						<option value="Sierra Leone">Sierra Leone</option>
+						<option value="Singapore">Singapore</option>
+						<option value="Sint Maarten">Sint Maarten</option>
+						<option value="Slovakia">Slovakia</option>
+						<option value="Slovenia">Slovenia</option>
+						<option value="Solomon Islands">Solomon Islands</option>
+						<option value="Somalia">Somalia</option>
+						<option value="South Africa">South Africa</option>
+						<option value="South Georgia and the South Sandwich Islands">South Georgia and the South
+							Sandwich Islands
+						</option>
+						<option value="South Korea">South Korea</option>
+						<option value="South Sudan">South Sudan</option>
+						<option value="Spain">Spain</option>
+						<option value="Sri Lanka">Sri Lanka</option>
+						<option value="St. Helena">St. Helena</option>
+						<option value="St. Pierre and Miquelon">St. Pierre and Miquelon</option>
+						<option value="Sudan">Sudan</option>
+						<option value="Suriname">Suriname</option>
+						<option value="Svalbard and Jan Mayen Islands">Svalbard and Jan Mayen Islands</option>
+						<option value="Swaziland">Swaziland</option>
+						<option value="Sweden">Sweden</option>
+						<option value="Switzerland">Switzerland</option>
+						<option value="Syria">Syria</option>
+						<option value="Taiwan">Taiwan</option>
+						<option value="Tajikistan">Tajikistan</option>
+						<option value="Tanzania">Tanzania</option>
+						<option value="Thailand">Thailand</option>
+						<option value="Timor-Leste">Timor-Leste</option>
+						<option value="Togo">Togo</option>
+						<option value="Tokelau">Tokelau</option>
+						<option value="Tonga">Tonga</option>
+						<option value="Trinidad and Tobago">Trinidad and Tobago</option>
+						<option value="Tunisia">Tunisia</option>
+						<option value="Turkiye">Turkiye</option>
+						<option value="Turkmenistan">Turkmenistan</option>
+						<option value="Turks &amp; Caicos Islands">Turks &amp; Caicos Islands</option>
+						<option value="Turks and Caicos Islands">Turks and Caicos Islands</option>
+						<option value="Tuvalu">Tuvalu</option>
+						<option value="Uganda">Uganda</option>
+						<option value="Ukraine">Ukraine</option>
+						<option value="United Arab Emirates">United Arab Emirates</option>
+						<option value="United Kingdom">United Kingdom</option>
+						<option value="Uruguay">Uruguay</option>
+						<option value="USA Minor Outlying Islands">USA Minor Outlying Islands</option>
+						<option value="Uzbekistan">Uzbekistan</option>
+						<option value="Vanuatu">Vanuatu</option>
+						<option value="Vatican City State (Holy See)">Vatican City State (Holy See)</option>
+						<option value="Venezuela">Venezuela</option>
+						<option value="Vietnam">Vietnam</option>
+						<option value="Virgin Islands (British)">Virgin Islands (British)</option>
+						<option value="Virgin Islands (U.S.)">Virgin Islands (U.S.)</option>
+						<option value="Wallis and Futuna Islands">Wallis and Futuna Islands</option>
+						<option value="Western Sahara">Western Sahara</option>
+						<option value="Yemen">Yemen</option>
+						<option value="Zambia">Zambia</option>
+						<option value="Zimbabwe">Zimbabwe</option>
+					</select></div>
+        </div>
+        <div class="col-md-6 col-sm-5">
+                <div class="mc-field-group"><label for="mce-MMERGE11">Organization Name <span
+                      class="asterisk">*</span></label><input class="required text" type="text" name="MMERGE11"
+                      id="mce-MMERGE11" required="" value="" aria-required="true"></div>
+        </div>
+        <div class="col-md-6 col-sm-5">
+        <div class="mc-field-group"><label for="mce-group[71385]">Organization Type <span
+							class="asterisk">*</span> </label><select class="required" name="group[71385]"
+						id="mce-group[71385]" aria-required="true">
+						<option value=""></option>
+						<option value="4">Alumni association</option>
+						<option value="256">Business incubator</option>
+						<option value="4096">Charity</option>
+						<option value="65536">Community organization</option>
+						<option value="131072">Consortium</option>
+						<option value="262144">Cooperative</option>
+						<option value="524288">Corporation</option>
+						<option value="1048576">Private Company</option>
+						<option value="2097152">Public Company</option>
+						<option value="4194304">Informal organization</option>
+						<option value="8388608">Institute</option>
+						<option value="16777216">Inter-professional association</option>
+						<option value="33554432">Membership organization</option>
+						<option value="67108864">Mission-based organization</option>
+						<option value="134217728">Non-governmental organization</option>
+						<option value="268435456">Non-profit organization</option>
+						<option value="536870912">Political organizsation</option>
+						<option value="1073741824">Professional association</option>
+						<option value="2147483648">Resident welfare association</option>
+						<option value="4294967296">Syndicate</option>
+						<option value="8589934592">Trade association</option>
+						<option value="17179869184">Trust</option>
+					</select></div>
+        </div>
+                </div>
+                <div class="mc-field-group input-group">
+                <p><strong>Your specific area of interest in the Fund </strong><span
+							class="asterisk"><strong>*</strong></span></p>
+					<ul>
+						<li><input type="checkbox" name="group[71370][8]" id="mce-group[71370]-71370-0" value=""><label
+								for="mce-group[71370]-71370-0">The Challenge Fund intervention for SMEs</label></li>
+						<li><input type="checkbox" name="group[71370][16]" id="mce-group[71370]-71370-1" value=""><label
+								for="mce-group[71370]-71370-1">The Convening and Influencing intervention in support of
+								SMEs</label></li>
+						<li><input type="checkbox" name="group[71370][32]" id="mce-group[71370]-71370-2" value=""><label
+								for="mce-group[71370]-71370-2">The Technical Assistance intervention for SMEs</label>
+						</li>
+						<li><input type="checkbox" name="group[71370][64]" id="mce-group[71370]-71370-3" value=""><label
+								for="mce-group[71370]-71370-3">The Connect Fund intervention for additional funding to
+								SMEs</label></li>
+						<li><input type="checkbox" name="group[71370][128]" id="mce-group[71370]-71370-4"
+								value=""><label for="mce-group[71370]-71370-4">General interest</label></li>
+					</ul>
+                </div>
+                <div class="mc-field-group"><label for="mce-MMERGE6">Specific area of interest (Other) </label><input
+                class=" text" type="text" name="MMERGE6" id="mce-MMERGE6" value=""></div>
+                <div class="mc-field-group input-group">
+					<p><strong>Your sector of focus </strong><span
+							class="asterisk"><strong>*</strong></span><strong>&nbsp;</strong></p>
+					<ul>
+						<li><input type="checkbox" name="group[71374][512]" id="mce-group[71374]-71374-0"
+								value=""><label for="mce-group[71374]-71374-0">Agribusiness</label></li>
+						<li><input type="checkbox" name="group[71374][1024]" id="mce-group[71374]-71374-1"
+								value=""><label for="mce-group[71374]-71374-1">Climate Impact</label></li>
+						<li><input type="checkbox" name="group[71374][2048]" id="mce-group[71374]-71374-2"
+								value=""><label for="mce-group[71374]-71374-2">Digital Economy</label></li>
+						<li><input type="checkbox" name="group[71374][34359738368]" id="mce-group[71374]-71374-3" 
+						value=""><label for="mce-group[71374]-71374-3">Health</label></li>
+							
+					</ul>
+				</div>
+        <div class="mc-field-group"><label for="mce-MMERGE7">Sector of focus (Other) </label><input
+						class=" text" type="text" name="MMERGE7" id="mce-MMERGE7" value=""></div>
+				<div class="mc-field-group input-group">
+					<p><strong>Do you have a focus on any of these potential beneficiaries of the Fund?&nbsp;</strong>
+					</p>
+					<ul>
+						<li><input type="checkbox" name="group[71382][8192]" id="mce-group[71382]-71382-0"
+								value=""><label for="mce-group[71382]-71382-0">Young women</label></li>
+						<li><input type="checkbox" name="group[71382][8192]" id="mce-group[71382]-71382-0"
+								value=""><label for="mce-group[71382]-71382-0">Young men</label></li>
+						<li><input type="checkbox" name="group[71382][16384]" id="mce-group[71382]-71382-1"
+								value=""><label for="mce-group[71382]-71382-1">Refugee youth</label></li>
+						<li><input type="checkbox" name="group[71382][32768]" id="mce-group[71382]-71382-2"
+								value=""><label for="mce-group[71382]-71382-2">Young people with disabilities</label>
+						</li>
+					</ul>
+				</div>
+        <div class="mc-field-group input-group">
+					<p><strong>I am willing to join the Fund mailing list&nbsp;</strong></p>
+					<ul>
+						<li><input type="radio" name="MMERGE8" id="mce-MMERGE80" value="Yes"><label
+								for="mce-MMERGE80">Yes</label></li>
+						<li><input type="radio" name="MMERGE8" id="mce-MMERGE81" value="No"><label
+								for="mce-MMERGE81">No</label></li>
+					</ul>
+				</div>
+				<div class="mc-field-group input-group">
+					<p><strong>I am interested to be invited to relevant Fund events&nbsp;</strong></p>
+					<ul>
+						<li><input type="radio" name="MMERGE9" id="mce-MMERGE90" value="Yes"><label
+								for="mce-MMERGE90">Yes</label></li>
+						<li><input type="radio" name="MMERGE9" id="mce-MMERGE91" value="No"><label
+								for="mce-MMERGE91">No</label></li>
+					</ul>
+				</div>
+        <div class="mc-field-group"><label for="mce-MMERGE10">Anything else of relevance you would like us to
+						know? </label><textarea class=" text" type="text" name="MMERGE10" id="mce-MMERGE10"
+						value=""></textarea> &nbsp;<br>&nbsp;</div>
+				<div class="clear" id="mce-responses">
+					<div class="response" style="display:none;" id="mce-error-response">&nbsp;</div>
+					<div class="response" style="display:none;" id="mce-success-response">&nbsp;</div>
+				</div>
+				<div style="left:-5000px;position:absolute;" aria-hidden="true"><input type="text"
+						name="b_5ce69d92299cbd43315eb1910_9c7890a1a5" tabindex="-1" value=""></div>
+				<div class="clear"><input class="button" type="submit" name="subscribe" id="mc-embedded-subscribe"
+						value="Submit"></div>
+              </div>
+            </form>
+          </div>
+          <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+	<script type="text/javascript">
+		//<![CDATA[
+		(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[5] = 'MMERGE5'; ftypes[5] = 'text'; fnames[12] = 'MMERGE12'; ftypes[12] = 'text'; fnames[1] = 'MMERGE1'; ftypes[1] = 'text'; fnames[3] = 'MMERGE3'; ftypes[3] = 'number'; fnames[4] = 'MMERGE4'; ftypes[4] = 'dropdown'; fnames[11] = 'MMERGE11'; ftypes[11] = 'text'; fnames[6] = 'MMERGE6'; ftypes[6] = 'text'; fnames[7] = 'MMERGE7'; ftypes[7] = 'text'; fnames[8] = 'MMERGE8'; ftypes[8] = 'radio'; fnames[9] = 'MMERGE9'; ftypes[9] = 'radio'; fnames[10] = 'MMERGE10'; ftypes[10] = 'text'; fnames[2] = 'SURNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);
+		//]]>
+	</script>
+  	<script type="text/javascript">
+      // -----Country Code Selection
+$("#mobile_code").intlTelInput({
+	initialCountry: "in",
+	separateDialCode: true,
+	// utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/11.0.4/js/utils.js"
+});
+</script>
+        </div>
+        
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+                   
+
+                          <a href="email:info@frp.org">info@frp.org</a>
+
+                          <ul class="socials">
+
+
+                              <li><a href="https://www.linkedin.com/company/the-mastercard-foundation-fund-for-resilience-and-prosperity/"
+                                      target="_blank"><i class="fab fa-linkedin"></i></a> </li>
+                                      
+                              <li><a href="https://web.facebook.com/FRP.prosperity/" target="_blank"><i
+                                          class="fab fa-facebook"></i></a> </li>
+
+                              <li><a href="https://twitter.com/FRP_prosperity" target="_blank">
+                                      <!-- <i class="fa fa-twitter"></i> -->
+                                      <i class="fa-brands fa-x-twitter"></i>
+                                      
+                              <li><a href="https://youtube.com/@fundforresilienceandprosperity?si=aqiqbtSythM7PcQn" target="_blank"><i
+                                          class="fab fa-youtube"></i></a> </li>
+                                      
+                              <li><a href="https://www.instagram.com/frp.prosperity/" target="_blank"><i
+                                          class="fab fa-instagram"></i></a> </li>
+
+                                  </a>
+                              </li>
+
+
+                          </ul>
+
+                      </div>
+
+                  </div>
+
+                  <div class="copyr" >
+
+                      <p>© 2024 <span class="notranslate">Mastercard Foundation Fund for Resilience and Prosperity </span>. All rights reserved.</p>
+
+                  </div>
+
+
+
+              </div>
+
+
+
+
+
+
+
+          </div>
+
+      </div>
+
+  </div>
+  
+          <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/js/intlTelInput-jquery.min.js"></script>
+  
+  <script type="text/javascript">
+      $("#mce-MMERGE3").intlTelInput({
+	initialCountry: "in",
+	separateDialCode: true,
+});
+  </script>
+  
+      <style>
+      .modal #mc_embed_signup {
+  background: transparent;}
+ .modal button.btn-close {
+  position: absolute;
+  right: 1%;
+  top: .4%;
+}
+#formodal .modal-content .button {
+  border-radius: 20px 20px;}
+
+  </style>
+<!-- END OUTPUT from 'themes/custom/FRP/templates/page.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+
+
+    
+    <script src="/themes/custom/FRP/js/jquery.js?v=1.x"></script>
+<script src="/themes/custom/FRP/js/bootstrap.bundle.min.js?v=1.x"></script>
+<script src="/themes/custom/FRP/js/aos.js?v=1.x"></script>
+<script src="/themes/custom/FRP/js/all.js?v=1.x"></script>
+<script src="/themes/custom/FRP/js/fontawesome.js?v=1.x"></script>
+<script src="/themes/custom/FRP/js/main.js?v=1.x"></script>
+<script src="/themes/custom/FRP/js/owl.carousel.min.js?v=1.x"></script>
+<script src="/themes/custom/FRP/js/popper.min.js?v=1.x"></script>
+<script src="/themes/custom/FRP/js/tippy.js?v=1.x"></script>
+<script src="/themes/custom/FRP/js/dev.js?v=1.x"></script>
+
+        <div id="google_translate_element2"></div>
+    <script type="text/javascript">
+    function googleTranslateElementInit2() {
+        new google.translate.TranslateElement({
+            pageLanguage: 'ru',
+            autoDisplay: false
+        }, 'google_translate_element2');
+    }
+</script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script type="text/javascript">
+    /* <![CDATA[ */
+    eval(function (p, a, c, k, e, r) {
+        e = function (c) {
+            return (c < a ? '' : e(parseInt(c / a))) + ((c = c % a) > 35 ? String.fromCharCode(c + 29) : c.toString(36))
+        };
+        if (!''.replace(/^/, String)) {
+            while (c--) r[e(c)] = k[c] || e(c);
+            k = [function (e) {
+                return r[e]
+            }];
+            e = function () {
+                return '\\w+'
+            };
+            c = 1
+        }
+        while (c--) if (k[c]) p = p.replace(new RegExp('\\b' + e(c) + '\\b', 'g'), k[c]);
+        return p
+    }('6 7(a,b){n{4(2.9){3 c=2.9("o");c.p(b,f,f);a.q(c)}g{3 c=2.r();a.s(\'t\'+b,c)}}u(e){}}6 h(a){4(a.8)a=a.8;4(a==\'\')v;3 b=a.w(\'|\')[1];3 c;3 d=2.x(\'y\');z(3 i=0;i<d.5;i++)4(d[i].A==\'B-C-D\')c=d[i];4(2.j(\'k\')==E||2.j(\'k\').l.5==0||c.5==0||c.l.5==0){F(6(){h(a)},G)}g{c.8=b;7(c,\'m\');7(c,\'m\')}}', 43, 43, '||document|var|if|length|function|GTranslateFireEvent|value|createEvent||||||true|else|doGTranslate||getElementById|google_translate_element2|innerHTML|change|try|HTMLEvents|initEvent|dispatchEvent|createEventObject|fireEvent|on|catch|return|split|getElementsByTagName|select|for|className|goog|te|combo|null|setTimeout|500'.split('|'), 0, {}))
+    /* ]]> */
+</script>
+<script type="text/javascript">
+function toggleMenu() {
+  var menuBox = document.getElementById('main-nav');    
+  if(menuBox.style.display == "block") { // if is menuBox displayed, hide it
+    menuBox.style.display = "none";
+  }
+  else { // if is menuBox hidden, display it
+    menuBox.style.display = "block";
+  }
+}
+</script>
+<script src="https://cdn.userway.org/widget.js" data-account="lH2P6cdnet"></script>
+  </body>
+</html>
+<!-- END OUTPUT from 'themes/custom/FRP/templates/html.html.twig' -->
+
